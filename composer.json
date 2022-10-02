@@ -8,13 +8,13 @@
             "email": "bakhtiyor.bahriddinov@gmail.com"
         }
     ],
-    "require": {},
     "autoload": {
         "psr-4": {
             "App\\": "src/"
         }
     },
     "require-dev": {
-        "squizlabs/php_codesniffer": "^3.7"
+        "squizlabs/php_codesniffer": "^3.7",
+        "vimeo/psalm": "^4.23"
     }
 }
