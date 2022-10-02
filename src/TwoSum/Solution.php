@@ -1,4 +1,5 @@
 <?php
+
 namespace App\TwoSum;
 
 class Solution
@@ -8,7 +9,8 @@ class Solution
      * @param Integer $target
      * @return Integer[]
      */
-    function twoSum($nums, $target) {
+    public function twoSum($nums, $target)
+    {
         foreach ($nums as $index1 => $num1) {
             foreach ($nums as $index2 => $num2) {
                 if ($index1 !== $index2 && ($num1 + $num2) === $target) {

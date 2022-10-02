@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ruleset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="vendor/squizlabs/php_codesniffer/phpcs.xsd">
+
+    <arg name="basepath" value="."/>
+    <arg name="no-cache"/>
+    <arg name="colors"/>
+    <arg name="extensions" value="php"/>
+    <arg name="report" value="summary"/>
+    <arg value="p"/>
+
+    <ini name="memory_limit" value="64M"/>
+
+    <autoload>./vendor/autoload.php</autoload>
+
+    <rule ref="PSR12">
+        <exclude name="PSR2.Classes.ClassDeclaration"/>
+    </rule>
+
+    <rule ref="Generic.Files.LineLength">
+        <properties>
+            <property name="lineLimit" value="120"/>
+        </properties>
+    </rule>
+
+    <file>src/</file>
+</ruleset>
