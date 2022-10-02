@@ -5,11 +5,11 @@ namespace App\TwoSum;
 class Solution
 {
     /**
-     * @param Integer[] $nums
-     * @param Integer $target
-     * @return Integer[]
+     * @param array<array-key, int> $nums
+     * @param int $target
+     * @return array|null
      */
-    public function twoSum($nums, $target)
+    public function twoSum(array $nums, int $target): ?array
     {
         foreach ($nums as $index1 => $num1) {
             foreach ($nums as $index2 => $num2) {
@@ -18,5 +18,6 @@ class Solution
                 }
             }
         }
+        return null;
     }
 }
