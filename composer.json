@@ -1,0 +1,17 @@
+{
+    "name": "bakhtiyor/leetcode",
+    "description": "Leetcode problems",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Bakhtiyor Bahritidinov",
+            "email": "bakhtiyor.bahriddinov@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
