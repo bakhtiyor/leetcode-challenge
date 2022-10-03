@@ -22,6 +22,7 @@
         <properties>
             <property name="lineLimit" value="120"/>
         </properties>
+        <exclude-pattern>tests</exclude-pattern>
     </rule>
 
     <file>src/</file>
