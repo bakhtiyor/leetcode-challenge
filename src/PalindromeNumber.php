@@ -1,6 +1,6 @@
 <?php
 
-namespace App\PalindromeNumber;
+namespace App;
 
 /**
  * Given an integer x, return true if x is palindrome integer.
@@ -8,7 +8,7 @@ namespace App\PalindromeNumber;
  *
  * For example, 121 is a palindrome while 123 is not.
  */
-class Solution
+class PalindromeNumber
 {
     /**
      * @param int $x

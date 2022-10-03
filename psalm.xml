@@ -16,4 +16,30 @@
             <directory name="vendor"/>
         </ignoreFiles>
     </projectFiles>
+
+    <issueHandlers>
+        <PropertyNotSetInConstructor>
+            <errorLevel type="suppress">
+                <directory name="tests"/>
+            </errorLevel>
+        </PropertyNotSetInConstructor>
+
+        <MissingConstructor>
+            <errorLevel type="suppress">
+                <directory name="tests"/>
+            </errorLevel>
+        </MissingConstructor>
+
+        <PossiblyInvalidArgument>
+            <errorLevel type="suppress">
+                <directory name="tests"/>
+            </errorLevel>
+        </PossiblyInvalidArgument>
+
+        <MixedArgumentTypeCoercion>
+            <errorLevel type="suppress">
+                <directory name="tests"/>
+            </errorLevel>
+        </MixedArgumentTypeCoercion>
+    </issueHandlers>
 </psalm>
