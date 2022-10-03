@@ -11,6 +11,7 @@
 >
     <projectFiles>
         <directory name="src" useStrictTypes="true"/>
+        <directory name="tests" useStrictTypes="true"/>
         <ignoreFiles>
             <directory name="vendor"/>
         </ignoreFiles>
