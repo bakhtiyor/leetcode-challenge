@@ -28,16 +28,27 @@ class ValidPalindrome
      */
     public function isPalindrome(string $str): bool
     {
-        $stringLength = strlen($str);
+        $chars = $this->removeNonAlphanumericChars($str);
+        $string = implode('', $chars);
+        $reversedString = strrev($string);
+        return $string === $reversedString;
+    }
+
+    /**
+     * @param string $str
+     * @return array<array-key, string>
+     */
+    private function removeNonAlphanumericChars(string $str): array
+    {
         $chars = [];
+        $stringLength = strlen($str);
         for ($i = 0; $i < $stringLength; $i++) {
             $char = $str[$i];
             if (ctype_alnum($char)) {
                 $chars[] = strtolower($char);
             }
         }
-        $string = implode('', $chars);
-        $reversedString = strrev($string);
-        return $string === $reversedString;
+
+        return $chars;
     }
 }
