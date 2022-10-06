@@ -1,7 +1,10 @@
-# leetcode-challenge
+# LeetCode Challenge
 I challenge myself to solve at least one problem a day from https://leetcode.com. 
 
-Progress: 3 days
+Progress: **4 days**
+
+Day 4 - October 06, 2022
+  - Roman to Integer - https://leetcode.com/problems/roman-to-integer/
 
 Day 3 - October 05, 2022
   - Valid Palindrome - https://leetcode.com/problems/valid-palindrome

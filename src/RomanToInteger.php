@@ -3,6 +3,8 @@
 namespace App;
 
 /**
+ * Roman to Integer
+ *
  * Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.
  *
  * Symbol       Value
@@ -37,19 +39,14 @@ class RomanToInteger
 {
     private const ROMAN = [
         'I' => 1,
-        'IV' => 4,
         'V' => 5,
-        'IX' => 9,
         'X' => 10,
-        'XL' => 40,
         'L' => 50,
-        'XC' => 90,
         'C' => 100,
-        'CD' => 400,
         'D' => 500,
-        'CM' => 900,
         'M' => 1000
     ];
+
     /**
      * @param string $str
      * @return int
@@ -59,17 +56,10 @@ class RomanToInteger
         $strLength = strlen($str);
         $summa = 0;
         for ($i = 0; $i < $strLength; $i++) {
-            $romanLetter1 = $str[$i];
-            $romanLetter2 = null;
-            if (($i + 1) < $strLength) {
-                $romanLetter2 = $romanLetter1 . $str[$i + 1];
-            }
-
-            if ($romanLetter2 && isset(self::ROMAN[$romanLetter2])) {
-                $summa += self::ROMAN[$romanLetter2];
-                $i++;
-            } elseif (isset(self::ROMAN[$romanLetter1])) {
-                $summa += self::ROMAN[$romanLetter1];
+            if (($i + 1) < $strLength && self::ROMAN[$str[$i]] < self::ROMAN[$str[$i + 1]]) {
+                $summa -= self::ROMAN[$str[$i]];
+            } else {
+                $summa += self::ROMAN[$str[$i]];
             }
         }
         return $summa;
