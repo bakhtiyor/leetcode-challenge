@@ -3,10 +3,13 @@ I challenge myself to solve at least one problem a day from https://leetcode.com
 
 My account in LeetCode - https://leetcode.com/bakhtiyorbs/ 
 
-Progress: **4 days**
+Progress: **5 days**
+
+Day 5 - October 07, 2022
+  - Longest Common Prefix - https://leetcode.com/problems/longest-common-prefix
 
 Day 4 - October 06, 2022
-  - Roman to Integer - https://leetcode.com/problems/roman-to-integer/
+  - Roman to Integer - https://leetcode.com/problems/roman-to-integer
 
 Day 3 - October 05, 2022
   - Valid Palindrome - https://leetcode.com/problems/valid-palindrome
