@@ -27,34 +27,24 @@ class LongestCommonPrefix
     public function longestCommonPrefix(array $strs): string
     {
         $strsCount = count($strs);
-        $prefixLength = 1;
-        $commonPrefix = $strs[0][0] ?? '';
-        $lastCommonPrefix = $commonPrefix;
-        $stop = false;
-        while (!$stop && count($strs) > 1) {
-            $commonPrefixFound = 1;
-
-            for ($i = 1; $i < $strsCount; $i++) {
-                $strPrefix = substr($strs[$i], 0, $prefixLength);
-                if ($commonPrefix !== $strPrefix) {
-                    break;
-                }
-                $commonPrefixFound++;
-            }
-
-            if ($commonPrefixFound === $strsCount && $prefixLength < strlen($strs[0])) {
-                $prefixLength++;
-                $lastCommonPrefix = $commonPrefix;
-                $commonPrefix = substr($strs[0], 0, $prefixLength);
-            } else {
-                if ($prefixLength == strlen($strs[0]) && $commonPrefixFound === $strsCount) {
-                    $lastCommonPrefix = $commonPrefix;
-                } elseif ($prefixLength == 1) {
-                    $lastCommonPrefix = '';
-                }
-                $stop = true;
-            }
+        if ($strsCount === 0) {
+            return '';
         }
-        return $lastCommonPrefix;
+        $prefix = $strs[0];
+        for ($i = 1; $i < $strsCount; $i++) {
+            $index = 0;
+            while (
+                ($index < strlen($prefix)) &&
+                $index < strlen($strs[$i]) &&
+                $prefix[$index] === $strs[$i][$index]
+            ) {
+                $index++;
+            }
+            $prefix = substr($prefix, 0, $index);
+        }
+        if ($prefix !== '') {
+            return $prefix;
+        }
+        return '';
     }
 }
