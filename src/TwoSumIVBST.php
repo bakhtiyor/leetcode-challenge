@@ -25,20 +25,24 @@ use App\library\TreeNode;
 class TwoSumIVBST
 {
     /**
-     * @param BinarySearchNode $root
+     * @psalm-suppress MixedOperand
+     * @param BinarySearchNode|null $root
      * @param int $target
      * @return bool
      */
-    public function findTarget(BinarySearchNode $root, int $target): bool
+    public function findTarget(?BinarySearchNode $root, int $target): bool
     {
-        $result = [];
-        $this->inorder($root, $result);
+        /** @var array<array-key, int> $sortedArray */
+        $sortedArray = [];
+        $this->convertToSortedArray($root, $sortedArray);
         $left = 0;
-        $right = count($result) - 1;
+        $right = count($sortedArray) - 1;
         while ($left < $right) {
-            if ($result[$left] + $result[$right] == $target) {
+            /** @var int $sum */
+            $sum = $sortedArray[$left] + $sortedArray[$right];
+            if ($sum === $target) {
                 return true;
-            } elseif ($result[$left] + $result[$right] < $target) {
+            } elseif ($sum < $target) {
                 $left++;
             } else {
                 $right--;
@@ -47,13 +51,13 @@ class TwoSumIVBST
         return false;
     }
 
-    private function inorder(?BinarySearchNode $root, array &$result)
+    private function convertToSortedArray(?BinarySearchNode $root, array &$result): void
     {
         if (!$root) {
-            return null;
+            return;
         }
-        $this->inorder($root->left, $result);
+        $this->convertToSortedArray($root->left, $result);
         $result[] = $root->val;
-        $this->inorder($root->right, $result);
+        $this->convertToSortedArray($root->right, $result);
     }
 }

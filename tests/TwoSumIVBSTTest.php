@@ -12,13 +12,13 @@ use PHPUnit\Framework\TestCase;
 class TwoSumIVBSTTest extends TestCase
 {
     /** @dataProvider twoSumIVBSTTestProvider */
-    public function testFindTarget(array $array, int $target, bool $expected)
+    public function testFindTarget(array $array, int $target, bool $expected): void
     {
         $tree = new BinarySearchTree();
+        /** @var int $item */
         foreach ($array as $item) {
             $tree->insert(new BinarySearchNode($item));
         }
-        $tree->printTree();
         $twoSumIVBST = new TwoSumIVBST();
         $result = $twoSumIVBST->findTarget($tree->getRoot(), $target);
 
