@@ -3,7 +3,6 @@
 namespace App\Tests;
 
 use App\BestTimeToBuyAndSellStock;
-use App\TwoSum;
 use PHPUnit\Framework\TestCase;
 
 class BestTimeToBuyAndSellStockTest extends TestCase
