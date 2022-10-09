@@ -2,11 +2,6 @@
 
 namespace App\library;
 
-/**
- * An efficient binary search tree (BST) implementation in PHP.
- *
- * https://gist.github.com/meetrajesh/4570999
- */
 class BinarySearchNode {
     public ?int $val;
     public ?BinarySearchNode $left = null;

@@ -14,13 +14,13 @@ class TwoSumIVBSTTest extends TestCase
     /** @dataProvider twoSumIVBSTTestProvider */
     public function testFindTarget(array $array, int $target, bool $expected): void
     {
-        $tree = new BinarySearchTree();
+        $root = new BinarySearchNode(null);
         /** @var int $item */
         foreach ($array as $item) {
-            $tree->insert(new BinarySearchNode($item));
+            $root->insert(new BinarySearchNode($item));
         }
         $twoSumIVBST = new TwoSumIVBST();
-        $result = $twoSumIVBST->findTarget($tree->getRoot(), $target);
+        $result = $twoSumIVBST->findTarget($root, $target);
 
         $this->assertEquals($expected, $result);
     }
