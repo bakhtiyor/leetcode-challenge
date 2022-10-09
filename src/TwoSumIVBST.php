@@ -3,8 +3,6 @@
 namespace App;
 
 use App\library\BinarySearchNode;
-use App\library\BinarySearchTree;
-use App\library\TreeNode;
 
 /**
  * Two Sum IV - Input is a BST
@@ -20,7 +18,7 @@ use App\library\TreeNode;
  * Input: root = [5,3,6,2,4,null,7], k = 28
  * Output: false
  *
- * https://leetcode.com/problems/two-sum-iv-input-is-a-bst/
+ * https://leetcode.com/problems/two-sum-iv-input-is-a-bst
  */
 class TwoSumIVBST
 {

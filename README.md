@@ -3,7 +3,10 @@ I challenge myself to solve at least one problem a day from https://leetcode.com
 
 My account in LeetCode - https://leetcode.com/bakhtiyorbs/ 
 
-Progress: **6 days**
+Progress: **7 days**
+
+Day 7 - October 09, 2022
+  - Two Sum IV - Input is a BST - https://leetcode.com/problems/two-sum-iv-input-is-a-bst - [EASY]
 
 Day 6 - October 08, 2022
   - 3Sum Closest - https://leetcode.com/problems/3sum-closest - [MEDIUM]
