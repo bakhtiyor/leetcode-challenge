@@ -3,10 +3,11 @@ I challenge myself to solve at least one problem a day from https://leetcode.com
 
 My account in LeetCode - https://leetcode.com/bakhtiyorbs/ 
 
-Progress: **8 days**
+Progress: **9 days**
 
 | Day | Date             | Problem                                                                                          | Level  |
 |-----|------------------|--------------------------------------------------------------------------------------------------|--------|
+| 9   | October 11, 2022 | [Plus One](https://leetcode.com/problems/plus-one)                                               | EASY   |
 | 8   | October 10, 2022 | [Search Insert Position](https://leetcode.com/problems/search-insert-position)                   | EASY   |
 | 7   | October 09, 2022 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst)           | EASY   |
 | 6   | October 08, 2022 | [3Sum Closest](https://leetcode.com/problems/3sum-closest)                                       | MEDIUM |
