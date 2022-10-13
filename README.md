@@ -3,10 +3,11 @@ I challenge myself to solve at least one problem a day from https://leetcode.com
 
 My account in LeetCode - https://leetcode.com/bakhtiyorbs/ 
 
-Progress: **10 days**
+Progress: **11 days**
 
 | Day | Date             | Problem                                                                                                          | Level  |
 |-----|------------------|------------------------------------------------------------------------------------------------------------------|--------|
+| 11  | October 13, 2022 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array)                             | EASY   |
 | 10  | October 12, 2022 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) | EASY   |
 | 10  | October 12, 2022 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones)                                       | EASY   |
 | 9   | October 11, 2022 | [Plus One](https://leetcode.com/problems/plus-one)                                                               | EASY   |
