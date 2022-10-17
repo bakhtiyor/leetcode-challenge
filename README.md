@@ -3,10 +3,11 @@ I challenge myself to solve at least one problem a day from https://leetcode.com
 
 My account in LeetCode - https://leetcode.com/bakhtiyorbs/ 
 
-Progress: **13 days**
+Progress: **14 days**
 
 | Day | Date             | Problem                                                                                                          | Level  |
 |-----|------------------|------------------------------------------------------------------------------------------------------------------|--------|
+| 14  | October 17, 2022 | [Remove Element](https://leetcode.com/problems/remove-element)                                                   | EASY   |
 | 13  | October 15, 2022 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)                                           | EASY   |
 | 12  | October 14, 2022 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros)                                                 | EASY   |
 | 11  | October 13, 2022 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array)                             | EASY   |
