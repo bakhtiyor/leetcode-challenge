@@ -29,32 +29,17 @@ class ReplaceElementsRightSide
      */
     public function replaceElements(array $arr): array
     {
-        if (count($arr) === 1) {
-            return [-1];
-        }
-        $result = [];
-        for ($i = 0, $iMax = count($arr); $i < $iMax; $i++) {
-            $result[] = $this->findMax($arr, $i + 1);
-        }
-        return $result;
-    }
+        $length = count($arr);
+        $max = $arr[$length - 1];
+        $arr[$length - 1] = -1;
 
-    /**
-     * @param array<array-key, int> $arr
-     * @param int $fromPosition
-     * @return int
-     */
-    private function findMax(array $arr, int $fromPosition): int
-    {
-        if ($fromPosition === count($arr)) {
-            return -1;
-        }
-        $max = PHP_INT_MIN;
-        for ($i = $fromPosition, $iMax = count($arr); $i < $iMax; $i++) {
-            if ($arr[$i] > $max) {
-                $max = $arr[$i];
+        for ($i = $length - 2; $i >= 0; $i--) {
+            $current = $arr[$i];
+            $arr[$i] = $max;
+            if ($current > $max) {
+                $max = $current;
             }
         }
-        return $max;
+        return $arr;
     }
 }
