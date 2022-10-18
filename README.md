@@ -3,10 +3,11 @@ I challenge myself to solve at least one problem a day from https://leetcode.com
 
 My account in LeetCode - https://leetcode.com/bakhtiyorbs/ 
 
-Progress: **15 days**
+Progress: **15 days** / Tasks solved: **18**
 
 | Day | Date             | Problem                                                                                                          | Level  |
 |-----|------------------|------------------------------------------------------------------------------------------------------------------|--------|
+| 15  | October 18, 2022 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array)                                       | EASY   |
 | 15  | October 18, 2022 | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist)                 | EASY   |
 | 14  | October 17, 2022 | [Remove Element](https://leetcode.com/problems/remove-element)                                                   | EASY   |
 | 13  | October 15, 2022 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)                                           | EASY   |
