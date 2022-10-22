@@ -3,7 +3,7 @@ I challenge myself to solve at least one problem a day from https://leetcode.com
 
 My account in LeetCode - https://leetcode.com/bakhtiyorbs/ 
 
-Progress: **18 days** / Tasks solved: **21**
+Progress: **18 days** / Tasks solved: **21** / Missed days: **2 days**
 
 | Day | Date             | Problem                                                                                                                                    | Level  |
 |-----|------------------|--------------------------------------------------------------------------------------------------------------------------------------------|--------|
