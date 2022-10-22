@@ -19,6 +19,7 @@ class MoveZeroesTest extends TestCase
     public function dataProvider(): array
     {
         return [
+            [[1,0,1], [1,1,0]],
             [[0,0,1], [1,0,0]],
             [[0,1,0,3,12], [1,3,12,0,0]],
             [[0], [0]]

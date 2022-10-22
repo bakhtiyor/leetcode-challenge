@@ -21,31 +21,20 @@ class MoveZeroes
      */
     public function moveZeroes(array &$nums): void
     {
-        $left = 0;
-        $right = count($nums) - 1;
-        while ($left < $right) {
-            if ($nums[$left] === 0) {
-                $this->moveArrayToLeft($nums, $left, $right);
-                if ($nums[$left] === 0) {
-                    $left--;
-                    $right--;
-                }
+        $meatBallLeftPosition = 0;
+        $meatBallSize = 0;
+        $curIndex = 0;
+        while ($curIndex < count($nums)) {
+            if ($nums[$curIndex] === 0) {
+                $meatBallSize++;
+            } elseif ($meatBallSize > 0) {
+                $nums[$meatBallLeftPosition] = $nums[$curIndex];
+                $nums[$curIndex] = 0;
+                $meatBallLeftPosition++;
+            } else {
+                $meatBallLeftPosition++;
             }
-            $left++;
+            $curIndex++;
         }
-    }
-
-    /**
-     * @param array<array-key, int> $arr
-     * @param int $left
-     * @param int $right
-     * @return void
-     */
-    private function moveArrayToLeft(array &$arr, int $left, int $right): void
-    {
-        for ($i = $left; $i < $right; $i++) {
-            $arr[$i] = $arr[$i + 1];
-        }
-        $arr[$right] = 0;
     }
 }
