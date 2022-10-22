@@ -29,8 +29,7 @@ class TwoSumIVBSTTest extends TestCase
     {
         return [
             [[5,3,6,2,4,null,7], 9, true],
-            [[5,3,6,2,4,null,7], 28, false],
-            [[2,1,3], 1, false]
+            [[5,3,6,2,4,null,7], 28, false]
         ];
     }
 }
