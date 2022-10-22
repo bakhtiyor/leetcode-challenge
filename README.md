@@ -3,10 +3,11 @@ I challenge myself to solve at least one problem a day from https://leetcode.com
 
 My account in LeetCode - https://leetcode.com/bakhtiyorbs/ 
 
-Progress: **17 days** / Tasks solved: **20**
+Progress: **18 days** / Tasks solved: **21**
 
 | Day | Date             | Problem                                                                                                                                    | Level  |
 |-----|------------------|--------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| 18  | October 22, 2022 | [Move Zeroes](https://leetcode.com/problems/move-zeroes)                                                                                   | EASY   |
 | 17  | October 20, 2022 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)                                   | EASY   |
 | 16  | October 19, 2022 | [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side) | EASY   |
 | 15  | October 18, 2022 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array)                                                                 | EASY   |
