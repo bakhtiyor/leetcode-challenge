@@ -8,7 +8,7 @@ use PHPUnit\Framework\TestCase;
 class RemoveDuplicatesSortedArrayTest extends TestCase
 {
     /** @dataProvider dataProvider */
-    public function testRemoveDuplicates(array $nums, int $expected)
+    public function testRemoveDuplicates(array $nums, int $expected): void
     {
         $removeDuplicatesSortedArray = new RemoveDuplicatesSortedArray();
         $result = $removeDuplicatesSortedArray->removeDuplicates($nums);

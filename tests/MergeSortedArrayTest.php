@@ -8,7 +8,7 @@ use PHPUnit\Framework\TestCase;
 class MergeSortedArrayTest extends TestCase
 {
     /** @dataProvider mergeDataProvider */
-    public function testMerge(array $nums1, int $m, array $nums2, int $n, array $expected)
+    public function testMerge(array $nums1, int $m, array $nums2, int $n, array $expected): void
     {
         $mergeSortedArray = new MergeSortedArray();
         $mergeSortedArray->merge($nums1, $m, $nums2, $n);
@@ -16,7 +16,7 @@ class MergeSortedArrayTest extends TestCase
         $this->assertSame($nums1, $expected);
     }
 
-    public function mergeDataProvider()
+    public function mergeDataProvider(): array
     {
         return [
             [

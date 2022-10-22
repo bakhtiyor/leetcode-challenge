@@ -8,7 +8,7 @@ use PHPUnit\Framework\TestCase;
 class ReplaceElementsRightSideTest extends TestCase
 {
     /** @dataProvider dataProvider */
-    public function testReplaceElements(array $arr, array $expected)
+    public function testReplaceElements(array $arr, array $expected): void
     {
         $replaceElementsRightSide = new ReplaceElementsRightSide();
         $result = $replaceElementsRightSide->replaceElements($arr);
