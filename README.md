@@ -3,10 +3,11 @@ I challenge myself to solve at least one problem a day from https://leetcode.com
 
 My account in LeetCode - https://leetcode.com/bakhtiyorbs/ 
 
-Progress: **19 days** / Tasks solved: **23** / Missed days: **2 days**
+Progress: **20 days** / Tasks solved: **24** / Missed days: **2 days**
 
 | Day | Date             | Problem                                                                                                                                    | Level  |
 |-----|------------------|--------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| 20  | October 24, 2022 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)                                                                       | EASY   |
 | 19  | October 23, 2022 | [Determine if Two Events Have Conflict](https://leetcode.com/contest/weekly-contest-316/problems/determine-if-two-events-have-conflict)    | EASY   |
 | 18  | October 22, 2022 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity)                                                                 | EASY   |
 | 18  | October 22, 2022 | [Move Zeroes](https://leetcode.com/problems/move-zeroes)                                                                                   | EASY   |
