@@ -3,10 +3,11 @@ I challenge myself to solve at least one problem a day from https://leetcode.com
 
 My account in LeetCode - https://leetcode.com/bakhtiyorbs/ 
 
-Progress: **21 days** / Tasks solved: **25** / Missed days: **2 days**
+Progress: **22 days** / Tasks solved: **26** / Missed days: **2 days**
 
 | Day | Date             | Problem                                                                                                                                    | Level  |
 |-----|------------------|--------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| 22  | October 26, 2022 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number)                                                                 | EASY   |
 | 21  | October 25, 2022 | [Height Checker](https://leetcode.com/problems/height-checker)                                                                             | EASY   |
 | 20  | October 24, 2022 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)                                                                       | EASY   |
 | 19  | October 23, 2022 | [Determine if Two Events Have Conflict](https://leetcode.com/contest/weekly-contest-316/problems/determine-if-two-events-have-conflict)    | EASY   |
