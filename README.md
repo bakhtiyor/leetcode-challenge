@@ -3,10 +3,11 @@ I challenge myself to solve at least one problem a day from https://leetcode.com
 
 My account in LeetCode - https://leetcode.com/bakhtiyorbs/ 
 
-Progress: **25 days** / Tasks solved: **29** / Missed days: **2 days**
+Progress: **26 days** / Tasks solved: **30** / Missed days: **2 days**
 
 | Day | Date             | Problem                                                                                                                                    | Level  |
 |-----|------------------|--------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| 26  | October 30, 2022 | [Single Number](https://leetcode.com/problems/single-number)                                                                               | EASY   |
 | 25  | October 29, 2022 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number)                                                       | EASY   |
 | 24  | October 28, 2022 | [Power of Two](https://leetcode.com/problems/power-of-two)                                                                                 | EASY   |
 | 23  | October 27, 2022 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)                         | EASY   |
