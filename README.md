@@ -3,10 +3,11 @@ I challenge myself to solve at least one problem a day from https://leetcode.com
 
 My account in LeetCode - https://leetcode.com/bakhtiyorbs/ 
 
-Progress: **26 days** / Tasks solved: **30** / Missed days: **2 days**
+Progress: **27 days** / Tasks solved: **31** / Missed days: **2 days**
 
 | Day | Date             | Problem                                                                                                                                    | Level  |
 |-----|------------------|--------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| 27  | October 31, 2022 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix)                                                                           | EASY   |
 | 26  | October 30, 2022 | [Single Number](https://leetcode.com/problems/single-number)                                                                               | EASY   |
 | 25  | October 29, 2022 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number)                                                       | EASY   |
 | 24  | October 28, 2022 | [Power of Two](https://leetcode.com/problems/power-of-two)                                                                                 | EASY   |
