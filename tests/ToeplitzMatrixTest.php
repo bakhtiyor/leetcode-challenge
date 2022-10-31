@@ -19,6 +19,7 @@ class ToeplitzMatrixTest extends TestCase
     public function dataProvider(): array
     {
         return [
+            [[[18],[66]], true],
             [
                 [[36,59,71,15,26,82,87],[56,36,59,71,15,26,82],[15,0,36,59,71,15,26]], false
             ],

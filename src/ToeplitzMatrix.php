@@ -23,22 +23,10 @@ class ToeplitzMatrix
      */
     public function isToeplitzMatrix(array $matrix): bool
     {
-        $colNum = $curColNum = count($matrix[0]);
-        $rowNum = count($matrix);
-        for ($r = 0; $r < $rowNum; $r++) {
-            if ($r > 0) {
-                $curColNum = $r;
-            }
-            for ($c = 0; $c < $curColNum; $c++) {
-                $row = $r;
-                $col = $c;
-                while ($row + 1 < $rowNum && $col + 1 < $colNum) {
-                    if ($matrix[$row][$col] === $matrix[$row + 1][$col + 1]) {
-                        $row++;
-                        $col++;
-                    } else {
-                        return false;
-                    }
+        for ($row = 0, $rowMax = count($matrix) - 1; $row < $rowMax; $row++) {
+            for ($col = 0, $colMax = count($matrix[$row]) - 1; $col < $colMax; $col++) {
+                if ($matrix[$row][$col] !== $matrix[$row + 1][$col + 1]) {
+                    return false;
                 }
             }
         }
