@@ -23,8 +23,24 @@ class SquaresOfSortedArray
      */
     public function sortedSquares(array $nums): array
     {
-        $numsSquared = array_map(static fn ($num) => $num * $num, $nums);
-        sort($numsSquared);
-        return $numsSquared;
+        $result = [];
+        $length = count($nums);
+        // in php if array is not initialized, and you assign value by index in random index it will show array
+        // in the way it was generated, not ordered by its index.
+        for ($i = 0; $i < $length; $i++) {
+            $result[$i] = 0;
+        }
+        $left = 0;
+        $right = $length - 1;
+        for ($i = $length - 1; $i >= 0; $i--) {
+            if (abs($nums[$left]) > abs($nums[$right])) {
+                $result[$i] = $nums[$left] * $nums[$left];
+                $left++;
+            } else {
+                $result[$i] = $nums[$right] * $nums[$right];
+                $right--;
+            }
+        }
+        return $result;
     }
 }
