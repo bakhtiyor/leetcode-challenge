@@ -3,10 +3,11 @@ I challenge myself to solve at least one problem a day from https://leetcode.com
 
 My account in LeetCode - https://leetcode.com/bakhtiyorbs/ 
 
-Progress: **31 days** / Tasks solved: **35** / Missed days: **2 days**
+Progress: **32 days** / Tasks solved: **36** / Missed days: **2 days**
 
 | Day | Date              | Problem                                                                                                                                    | Level  |
 |-----|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| 32  | November 05, 2022 | [Rotate Array](https://leetcode.com/problems/rotate-array)                                                                                 | MEDIUM |
 | 31  | November 04, 2022 | [First Bad Version](https://leetcode.com/problems/first-bad-version)                                                                       | EASY   |
 | 30  | November 03, 2022 | [Binary Search](https://leetcode.com/problems/binary-search)                                                                               | EASY   |
 | 29  | November 02, 2022 | [Pow(x, n)](https://leetcode.com/problems/powx-n)                                                                                          | MEDIUM |
