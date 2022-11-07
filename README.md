@@ -3,10 +3,11 @@ I challenge myself to solve at least one problem a day from https://leetcode.com
 
 My account in LeetCode - https://leetcode.com/bakhtiyorbs/ 
 
-Progress: **33 days** / Tasks solved: **37** / Missed days: **2 days**
+Progress: **34 days** / Tasks solved: **38** / Missed days: **2 days**
 
 | Day | Date              | Problem                                                                                                                                    | Level  |
 |-----|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| 34  | November 07, 2022 | [Reverse String](https://leetcode.com/problems/reverse-string)                                                                             | EASY   |
 | 33  | November 06, 2022 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)                                       | MEDIUM |
 | 32  | November 05, 2022 | [Rotate Array](https://leetcode.com/problems/rotate-array)                                                                                 | MEDIUM |
 | 31  | November 04, 2022 | [First Bad Version](https://leetcode.com/problems/first-bad-version)                                                                       | EASY   |
