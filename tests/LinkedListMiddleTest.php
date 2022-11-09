@@ -8,8 +8,9 @@ use PHPUnit\Framework\TestCase;
 
 class LinkedListMiddleTest extends TestCase
 {
-    /** @dataProvider dataProvider */
     /**
+     * @dataProvider dataProvider
+     *
      * @param array<array-key, int> $nums
      * @param array<array-key, int> $expected
      * @return void
@@ -18,40 +19,14 @@ class LinkedListMiddleTest extends TestCase
     {
         $head = null;
         for ($i = 0, $iMax = count($nums); $i < $iMax; $i++) {
-            $this->insertToList($head, new ListNode($nums[$i], null));
+            ListNode::insertToList($head, new ListNode($nums[$i], null));
         }
         if ($head) {
             $linkedListMiddle = new LinkedListMiddle();
             $middle = $linkedListMiddle->middleNode($head);
-            $result = $this->listToArray($middle);
+            $result = ListNode::listToArray($middle);
 
             $this->assertSame($expected, $result);
-        }
-    }
-
-    private function listToArray(ListNode $head): array
-    {
-        $temp = $head;
-        $arr = [];
-        while ($temp) {
-            $arr[] = $temp->val;
-            $temp = $temp->next;
-        }
-        return $arr;
-    }
-
-    private function insertToList(?ListNode &$head, ListNode $newItem): void
-    {
-        $newListNode = new ListNode($newItem->val, null);
-
-        if ($head === null) {
-            $head = $newListNode;
-        } else {
-            $temp = $head;
-            while ($temp->next !== null) {
-                $temp = $temp->next;
-            }
-            $temp->next = $newItem;
         }
     }
 
