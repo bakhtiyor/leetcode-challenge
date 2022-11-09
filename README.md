@@ -3,11 +3,11 @@ I challenge myself to solve at least one problem a day from https://leetcode.com
 
 My account in LeetCode - https://leetcode.com/bakhtiyorbs/ 
 
-Progress: **36 days** / Tasks solved: **40** / Missed days: **2 days**
+Progress: **36 days** / Tasks solved: **40** / Missed days: **3 days**
 
 | Day | Date              | Problem                                                                                                                                    | Level  |
 |-----|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------|--------|
-| 36  | November 09, 2022 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)                                                       | EASY   |
+| 36  | November 10, 2022 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)                                                       | EASY   |
 | 35  | November 08, 2022 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii)                                               | EASY   |
 | 34  | November 07, 2022 | [Reverse String](https://leetcode.com/problems/reverse-string)                                                                             | EASY   |
 | 33  | November 06, 2022 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)                                       | MEDIUM |
@@ -32,7 +32,7 @@ Progress: **36 days** / Tasks solved: **40** / Missed days: **2 days**
 | 15  | October 18, 2022  | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array)                                                                 | EASY   |
 | 15  | October 18, 2022  | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist)                                           | EASY   |
 | 14  | October 17, 2022  | [Remove Element](https://leetcode.com/problems/remove-element)                                                                             | EASY   |
-| 13  | October 15, 2022  | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)                                                                     | EASY   |
+| 13  | October 16, 2022  | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)                                                                     | EASY   |
 | 12  | October 14, 2022  | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros)                                                                           | EASY   |
 | 11  | October 13, 2022  | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array)                                                       | EASY   |
 | 10  | October 12, 2022  | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits)                           | EASY   |
