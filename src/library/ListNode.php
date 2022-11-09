@@ -18,11 +18,10 @@ class ListNode
 
     public static function listToArray(ListNode $head): array
     {
-        $temp = $head;
         $arr = [];
-        while ($temp) {
-            $arr[] = $temp->val;
-            $temp = $temp->next;
+        while ($head) {
+            $arr[] = $head->val;
+            $head = $head->next;
         }
         return $arr;
     }
