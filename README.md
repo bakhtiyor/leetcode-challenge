@@ -3,10 +3,11 @@ I challenge myself to solve at least one problem a day from https://leetcode.com
 
 My account in LeetCode - https://leetcode.com/bakhtiyorbs/ 
 
-Progress: **38 days** / Tasks solved: **42** / Missed days: **3 days**
+Progress: **39 days** / Tasks solved: **43** / Missed days: **3 days**
 
 | Day | Date              | Problem                                                                                                                                    | Level  |
 |-----|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| 39  | November 12, 2022 | [Sqrt(x)](https://leetcode.com/problems/sqrtx)                                                                                             | EASY   |
 | 38  | November 11, 2022 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)             | MEDIUM |
 | 37  | November 10, 2022 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)                                         | MEDIUM |
 | 36  | November 10, 2022 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)                                                       | EASY   |
