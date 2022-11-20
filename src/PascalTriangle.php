@@ -21,7 +21,7 @@ class PascalTriangle
 {
     /**
      * @param int $numRows
-     * @return array<array-key, int>
+     * @return array<array-key, array<array-key, int>>
      */
     public function generate(int $numRows): array
     {
@@ -43,7 +43,6 @@ class PascalTriangle
      */
     private function pascalTriangle(int $numRow, array $previousRow): array
     {
-        /** @var array<array-key, int> $result */
         $result = [];
         $countPreviousRow = count($previousRow);
         for ($i = 0; $i < $numRow; $i++) {
