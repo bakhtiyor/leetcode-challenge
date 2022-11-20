@@ -3,10 +3,11 @@ I challenge myself to solve at least one problem a day from https://leetcode.com
 
 My account in LeetCode - https://leetcode.com/bakhtiyorbs/ 
 
-Progress: **46 days** / Tasks solved: **50** / Missed days: **3 days**
+Progress: **47 days** / Tasks solved: **51** / Missed days: **3 days**
 
 | Day | Date              | Problem                                                                                                                                    | Level  |
 |-----|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| 47  | November 20, 2022 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)                                                                        | EASY   |
 | 46  | November 19, 2022 | [Majority Element](https://leetcode.com/problems/majority-element)                                                                         | EASY   |
 | 45  | November 18, 2022 | [Ugly Number](https://leetcode.com/problems/ugly-number)                                                                                   | EASY   |
 | 44  | November 17, 2022 | [Missing Number](https://leetcode.com/problems/missing-number)                                                                             | EASY   |
