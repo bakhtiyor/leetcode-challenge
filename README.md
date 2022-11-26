@@ -3,10 +3,11 @@ I challenge myself to solve at least one problem a day from https://leetcode.com
 
 My account in LeetCode - https://leetcode.com/bakhtiyorbs/ 
 
-Progress: **52 days** / Tasks solved: **56** / Missed days: **3 days**
+Progress: **53 days** / Tasks solved: **57** / Missed days: **3 days**
 
 | Day | Date              | Problem                                                                                                                                    | Level  |
 |-----|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| 53  | November 26, 2022 | [Find the Difference](https://leetcode.com/problems/find-the-difference)                                                                   | EASY   |
 | 52  | November 25, 2022 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate)                                                                     | EASY   |
 | 51  | November 24, 2022 | [Number of Distinct Averages](https://leetcode.com/problems/number-of-distinct-averages)                                                   | EASY   |
 | 50  | November 23, 2022 | [3Sum](https://leetcode.com/problems/3sum)                                                                                                 | MEDIUM |
