@@ -19,6 +19,7 @@ class AddDigitsTest extends TestCase
     public function dataProvider(): array
     {
         return [
+            [10, 1],
             [38, 2],
             [0, 0]
         ];

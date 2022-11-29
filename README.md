@@ -3,10 +3,11 @@ I challenge myself to solve at least one problem a day from https://leetcode.com
 
 My account in LeetCode - https://leetcode.com/bakhtiyorbs/ 
 
-Progress: **55 days** / Tasks solved: **59** / Missed days: **3 days**
+Progress: **56 days** / Tasks solved: **60** / Missed days: **3 days**
 
 | Day | Date              | Problem                                                                                                                                    | Level  |
 |-----|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| 56  | November 29, 2022 | [Add Digits](https://leetcode.com/problems/add-digits)                                                                                     | EASY   |
 | 55  | November 28, 2022 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)                                               | EASY   |
 | 54  | November 27, 2022 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string)                                     | EASY   |
 | 53  | November 26, 2022 | [Find the Difference](https://leetcode.com/problems/find-the-difference)                                                                   | EASY   |

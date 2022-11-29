@@ -24,6 +24,25 @@ class AddDigits
      */
     public function addDigits(int $num): int
     {
-        return 1;
+        while ($num >= 10) {
+            $digits = $this->getDigits($num);
+            $num = array_sum($digits);
+        }
+        return $num;
+    }
+
+    /**
+     * @param int $number
+     * @return array<array-key, int>
+     */
+    private function getDigits(int $number): array
+    {
+        $digits = [];
+        while ($number > 0) {
+            $remainder = $number % 10;
+            $number = (int)($number / 10);
+            $digits[] = $remainder;
+        }
+        return $digits;
     }
 }
