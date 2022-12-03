@@ -3,29 +3,28 @@
 namespace App;
 
 /**
- * Intersection of Two Arrays II
+ * Intersection of Two Arrays
  *
- * Given two integer arrays nums1 and nums2, return an array of their intersection. Each element in the result must
- * appear as many times as it shows in both arrays and you may return the result in any order.
+ * Given two integer arrays nums1 and nums2, return an array of their intersection. Each element in the result must be
+ * unique and you may return the result in any order.
  *
  * Example 1:
- * Input: nums1 = [1,2,2,1], nums2 = [2,2]
- * Output: [2,2]
+ * Input: nums1 = [1,2,2,1], nums2 = [2,2]          Output: [2]
  *
  * Example 2:
- * Input: nums1 = [4,9,5], nums2 = [9,4,9,8,4]
- * Output: [4,9]
+ * Input: nums1 = [4,9,5], nums2 = [9,4,9,8,4]      Output: [9,4]       Explanation: [4,9] is also accepted.
  *
- * https://leetcode.com/problems/intersection-of-two-arrays-ii
+ * https://leetcode.com/problems/intersection-of-two-arrays
  */
-class TwoArraysIntersection
+class TwoArrayIntersection
 {
     /**
+     * @psalm-suppress UnusedForeachValue
      * @param array<array-key, int> $nums1
      * @param array<array-key, int> $nums2
      * @return array<array-key, int>
      */
-    public function intersect(array $nums1, array $nums2): array
+    public function intersection(array $nums1, array $nums2): array
     {
         $nums1Hash = $this->createHash($nums1);
         $nums2Hash = $this->createHash($nums2);
@@ -33,10 +32,7 @@ class TwoArraysIntersection
         $intersections = [];
         foreach ($nums1Hash as $num1Key => $num1Value) {
             if (isset($nums2Hash[$num1Key])) {
-                $repeatNum = min($nums2Hash[$num1Key], $num1Value);
-                for ($i = 1; $i <= $repeatNum; $i++) {
-                    $intersections[] = (int) $num1Key;
-                }
+                $intersections[] = (int) $num1Key;
             }
         }
         return $intersections;
