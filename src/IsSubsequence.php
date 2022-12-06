@@ -36,7 +36,6 @@ class IsSubsequence
         while ($i < strlen($s) && $j < strlen($t)) {
             if ($sArr[$i] === $tArr[$j]) {
                 $i++;
-                $j++;
             }
             $j++;
         }
