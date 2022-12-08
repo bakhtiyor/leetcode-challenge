@@ -4,7 +4,7 @@ namespace App;
 
 /**
  * Valid Palindrome II
- * 
+ *
  * Given a string s, return true if the s can be palindrome after deleting at most one character from it.
  *
  * Example 1:
@@ -31,16 +31,34 @@ class ValidPalindromeII
         $strArr = str_split($str);
 
         while ($left < $right) {
-            if ($strArr[$left] !== $strArr[$right]) {
-                $skipLeft = substr($str, $left + 1, $right + 1);
-                $skipRight = substr($str, $left, $right);
-                return ($skipRight === strrev($skipRight) or $skipLeft === strrev($skipLeft));
+            if ($strArr[$left] === $strArr[$right]) {
+                $left++;
+                $right--;
+            } else {
+                return ($this->isValidPalindrome($str, $left, $right - 1) || $this->isValidPalindrome($str, $left + 1, $right));
             }
-
-            $left++;
-            $right--;
         }
 
+        return true;
+    }
+
+    /**
+     * @param string $str
+     * @param int $left
+     * @param int $right
+     * @return bool
+     */
+    private function isValidPalindrome(string $str, int $left, int $right): bool
+    {
+        $strArr = str_split($str);
+        while ($left < $right) {
+            if ($strArr[$left] === $strArr[$right]) {
+                $left++;
+                $right--;
+            } else {
+                return false;
+            }
+        }
         return true;
     }
 }

@@ -3,10 +3,11 @@ I challenge myself to solve at least one problem a day from https://leetcode.com
 
 My account in LeetCode - https://leetcode.com/bakhtiyorbs/ 
 
-Progress: **64 days** / Tasks solved: **68** / Missed days: **3 days**
+Progress: **65 days** / Tasks solved: **69** / Missed days: **3 days**
 
 | Day                                                        | Date              | Problem                                                                                                                                    | Level  |
 |------------------------------------------------------------|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [65](./src/ValidPalindromeII.php)                          | December 08, 2022 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii)                                                                   | EASY   |
 | [64](./src/ArrangingCoins.php)                             | December 07, 2022 | [Arranging Coins](https://leetcode.com/problems/arranging-coins)                                                                           | EASY   |
 | [63](./src/IsSubsequence.php)                              | December 06, 2022 | [Is Subsequence](https://leetcode.com/problems/is-subsequence)                                                                             | EASY   |
 | [62](./src/ValidPerfectSquare.php)                         | December 05, 2022 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square)                                                                 | EASY   |

@@ -19,8 +19,9 @@ class ValidPalindromeIITest extends TestCase
     public function dataProvider(): array
     {
         return [
-            ['abc', false],
             ['abca', true],
+            ['abcd', false],
+            ['abc', false],
             ['aba', true],
         ];
     }
