@@ -15,6 +15,7 @@ namespace App;
  * Example 2:
  * Input: nums = [1,0,1,1,0,1]
  * Output: 2
+ *
  * https://leetcode.com/problems/max-consecutive-ones
  */
 class MaxConsecutiveOnes
