@@ -7,7 +7,6 @@ use PHPUnit\Framework\TestCase;
 
 class MonotonicArrayTest extends TestCase
 {
-
     /** @dataProvider dataProvider */
     public function testIsMonotonic(array $nums, bool $expected): void
     {
@@ -20,6 +19,7 @@ class MonotonicArrayTest extends TestCase
     public function dataProvider(): array
     {
         return [
+            [[9], true],
             [[1,2,2,3], true],
             [[6,5,4,4], true],
             [[1,3,2], false]
