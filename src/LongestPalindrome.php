@@ -29,25 +29,20 @@ class LongestPalindrome
     public function longestPalindrome(string $str): int
     {
         $strArr = str_split($str);
-        $maxLength = 0;
-        foreach ($strArr as $index => $word) {
-            $wordPairIndex = $this->searchWord($word, $strArr, $index);
-            if ($wordPairIndex >= 0) {
-                $maxLength += 2;
-                unset($strArr[$wordPairIndex]);
-            }
-            unset($strArr[$index]);
-        }
-        return $maxLength;
-    }
-
-    private function searchWord(string $word, array $strArr, int $expceptionIndex): int
-    {
-        foreach ($strArr as $index => $value) {
-            if ($index !== $expceptionIndex && $word === $value) {
-                return $index;
+        $strHash = [];
+        $result = 0;
+        for ($i = 0, $iMax = count($strArr); $i < $iMax; $i++) {
+            $word = $strArr[$i];
+            if (!isset($strHash[$word])) {
+                $strHash[$word] = 1;
+            } else {
+                $strHash[$word] = null;
+                $result += 2;
             }
         }
-        return -1;
+        if (count($strArr) > $result) {
+            $result++;
+        }
+        return $result;
     }
 }
