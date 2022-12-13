@@ -7,7 +7,8 @@ Progress: **69 days** / Tasks solved: **73** / Missed days: **3 days**
 
 | Day                                                        | Date              | Problem                                                                                                                                    | Level  |
 |------------------------------------------------------------|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------|--------|
-| [69](./src/RansomNote.php)                                 | December 12, 2022 | [Ransom Note](https://leetcode.com/problems/ransom-note)                                                                                   | EASY   |
+| [70](./src/RansomNote.php)                                 | December 13, 2022 | [Ransom Note](https://leetcode.com/problems/ransom-note)                                                                                   | EASY   |
+| [69](./src/LongestPalindrome.php)                          | December 12, 2022 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome)                                                                     | EASY   |
 | [68](./src/ReverseVowels.php)                              | December 11, 2022 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string)                                                     | EASY   |
 | [67](./src/MonotonicArray.php)                             | December 10, 2022 | [Monotonic Array](https://leetcode.com/problems/monotonic-array)                                                                           | EASY   |
 | [66](./src/FizzBuzz.php)                                   | December 09, 2022 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz)                                                                                       | EASY   |
