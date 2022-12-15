@@ -3,10 +3,11 @@ I challenge myself to solve at least one problem a day from https://leetcode.com
 
 My account in LeetCode - https://leetcode.com/bakhtiyorbs/ 
 
-Progress: **71 days** / Tasks solved: **74** / Missed days: **3 days**
+Progress: **72 days** / Tasks solved: **75** / Missed days: **3 days**
 
 | Day                                                        | Date              | Problem                                                                                                                                    | Level  |
 |------------------------------------------------------------|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [72](./src/ShortestDistanceToCharacter.php)                | December 15, 2022 | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character)                                         | EASY   |
 | [71](./src/AddBinary.php)                                  | December 14, 2022 | [Add Binary](https://leetcode.com/problems/add-binary)                                                                                     | EASY   |
 | [70](./src/RansomNote.php)                                 | December 13, 2022 | [Ransom Note](https://leetcode.com/problems/ransom-note)                                                                                   | EASY   |
 | [69](./src/LongestPalindrome.php)                          | December 12, 2022 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome)                                                                     | EASY   |
