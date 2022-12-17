@@ -3,10 +3,11 @@ I challenge myself to solve at least one problem a day from https://leetcode.com
 
 My account in LeetCode - https://leetcode.com/bakhtiyorbs/ 
 
-Progress: **73 days** / Tasks solved: **76** / Missed days: **3 days**
+Progress: **74 days** / Tasks solved: **77** / Missed days: **3 days**
 
 | Day                                                        | Date              | Problem                                                                                                                                    | Level  |
 |------------------------------------------------------------|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [74](./src/NumberOfLinesToWriteString.php)                 | December 17, 2022 | [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string)                                           | EASY   |
 | [73](./src/BaseballGame.php)                               | December 16, 2022 | [Baseball Game](https://leetcode.com/problems/baseball-game)                                                                               | EASY   |
 | [72](./src/ShortestDistanceToCharacter.php)                | December 15, 2022 | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character)                                         | EASY   |
 | [71](./src/AddBinary.php)                                  | December 14, 2022 | [Add Binary](https://leetcode.com/problems/add-binary)                                                                                     | EASY   |
