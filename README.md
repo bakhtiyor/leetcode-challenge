@@ -1,12 +1,13 @@
 # LeetCode Challenge
-I challenge myself to solve at least one problem a day from https://leetcode.com. 
+I challenge myself to solve at least one problem a day from https://leetcode.com. To go to the source code for a specific problem click on the link of the day for that problem. The link to the description of the problem in a leetcode is provided in the link of the problem and in the source code of the problem too. 
 
 My account in LeetCode - https://leetcode.com/bakhtiyorbs/ 
 
-Progress: **75 days** / Tasks solved: **78** / Missed days: **3 days**
+Progress: **76 days** / Tasks solved: **79** / Missed days: **3 days**
 
 | Day                                                        | Date              | Problem                                                                                                                                    | Level  |
 |------------------------------------------------------------|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [76](./src/FlippingAnImage.php)                            | December 19, 2022 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image)                                                                       | EASY   |
 | [75](./src/NumberOfSegmentsInString.php)                   | December 18, 2022 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string)                                             | EASY   |
 | [74](./src/NumberOfLinesToWriteString.php)                 | December 17, 2022 | [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string)                                           | EASY   |
 | [73](./src/BaseballGame.php)                               | December 16, 2022 | [Baseball Game](https://leetcode.com/problems/baseball-game)                                                                               | EASY   |
