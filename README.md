@@ -3,10 +3,11 @@ I challenge myself to solve at least one problem a day from https://leetcode.com
 
 My account in LeetCode - https://leetcode.com/bakhtiyorbs/ 
 
-Progress: **76 days** / Tasks solved: **79** / Missed days: **3 days**
+Progress: **77 days** / Tasks solved: **80** / Missed days: **3 days**
 
 | Day                                                        | Date              | Problem                                                                                                                                    | Level  |
 |------------------------------------------------------------|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [77](./src/SmallestIndexWithEqualValue.php)                | December 20, 2022 | [Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value)                                           | EASY   |
 | [76](./src/FlippingAnImage.php)                            | December 19, 2022 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image)                                                                       | EASY   |
 | [75](./src/NumberOfSegmentsInString.php)                   | December 18, 2022 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string)                                             | EASY   |
 | [74](./src/NumberOfLinesToWriteString.php)                 | December 17, 2022 | [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string)                                           | EASY   |
