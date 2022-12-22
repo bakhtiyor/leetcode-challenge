@@ -35,7 +35,10 @@ class ValidPalindromeII
                 $left++;
                 $right--;
             } else {
-                return ($this->isValidPalindrome($str, $left, $right - 1) || $this->isValidPalindrome($str, $left + 1, $right));
+                return (
+                    $this->isValidPalindrome($str, $left, $right - 1) ||
+                    $this->isValidPalindrome($str, $left + 1, $right)
+                );
             }
         }
 

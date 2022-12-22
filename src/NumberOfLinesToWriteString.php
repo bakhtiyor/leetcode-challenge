@@ -16,7 +16,8 @@ namespace App;
  * result[1] is the width of the last line in pixels.
  *
  * Example 1:
- * Input: widths = [10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10], s = "abcdefghijklmnopqrstuvwxyz"
+ * Input: widths = [10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10],
+ * s = "abcdefghijklmnopqrstuvwxyz"
  * Output: [3,60]
  * Explanation: You can write s as follows:
  * abcdefghij  // 100 pixels wide
