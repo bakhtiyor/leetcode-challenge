@@ -24,8 +24,22 @@ namespace App;
  */
 class MinimumChangesToMakeAlternatingBinaryString
 {
-    public function minOperations(string $s): int
+    /**
+     * @param string $str
+     * @return int
+     */
+    public function minOperations(string $str): int
     {
-        return 1;
+        $numAlterations1 = 0;
+        $numAlterations2 = 0;
+        for ($i = 0; $i < strlen($str); $i++) {
+            if (($i % 2 === 0 && $str[$i] === '1') || ($i % 2 === 1 && $str[$i] === '0')) {
+                $numAlterations1++;
+            }
+            if (($i % 2 === 0 && $str[$i] === '0') || ($i % 2 === 1 && $str[$i] === '1')) {
+                $numAlterations2++;
+            }
+        }
+        return min($numAlterations1, $numAlterations2);
     }
 }

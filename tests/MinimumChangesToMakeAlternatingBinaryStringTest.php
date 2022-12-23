@@ -19,9 +19,10 @@ class MinimumChangesToMakeAlternatingBinaryStringTest extends TestCase
     public function dataProvider(): array
     {
         return [
+            ['10010100', 3],
+            ['1111', 2],
             ['0100', 1],
             ['10', 0],
-            ['1111', 2]
         ];
     }
 }
