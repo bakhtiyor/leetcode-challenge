@@ -3,10 +3,11 @@ I challenge myself to solve at least one problem a day from https://leetcode.com
 
 My account in LeetCode - https://leetcode.com/bakhtiyorbs/ 
 
-Progress: **83 days** / Tasks solved: **86** / Missed days: **3 days**
+Progress: **84 days** / Tasks solved: **87** / Missed days: **3 days**
 
 | Day                                                         | Date              | Problem                                                                                                                                      | Level  |
 |-------------------------------------------------------------|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [84](./src/ThousandSeparator.php)                           | December 27, 2022 | [Thousand Separator](https://leetcode.com/problems/thousand-separator)                                                                       | EASY   |
 | [83](./src/FindWinnerOnTicTacToeGame.php)                   | December 26, 2022 | [Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game)                                         | EASY   |
 | [82](./src/UniqueMorseCodeWords.php)                        | December 25, 2022 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words)                                                             | EASY   |
 | [81](./src/LongPressedName.php)                             | December 24, 2022 | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name)                                                                         | EASY   |
