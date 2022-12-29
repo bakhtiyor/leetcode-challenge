@@ -1,7 +1,7 @@
 # LeetCode Challenge
-I challenge myself to solve at least one problem a day from https://leetcode.com. To go to the source code for a specific problem click on the link of the day for that problem. The link to the description of the problem in a leetcode is provided in the link of the problem and in the source code of the problem too. 
+I challenge myself to solve at least one problem a day from https://leetcode.com. To navigate to the source code for a specific problem click on the link of the day for that problem. The description of the problem in a leetcode is provided in the link to the problem and in the source code of the problem. 
 
-My account in LeetCode - https://leetcode.com/bakhtiyorbs/ 
+My account on LeetCode - https://leetcode.com/bakhtiyorbs 
 
 Progress: **86 days** / Tasks solved: **89** / Missed days: **3 days**
 
