@@ -28,6 +28,27 @@ class AddStrings
      */
     public function addStrings(string $num1, string $num2): string
     {
-        return '';
+        $num1Index = strlen($num1) - 1;
+        $num2Index = strlen($num2) - 1;
+        $remainder = 0;
+        $result = '';
+        while ($num1Index >= 0 || $num2Index >= 0) {
+            $digit1 = 0;
+            if ($num1Index >= 0) {
+                $digit1 = (int) $num1[$num1Index];
+            }
+            $digit2 = 0;
+            if ($num2Index >= 0) {
+                $digit2 = (int) $num2[$num2Index];
+            }
+            $result = (($digit1 + $digit2 + $remainder) % 10) . $result;
+            $remainder = (int) (($digit1 + $digit2 + $remainder) / 10);
+            $num1Index--;
+            $num2Index--;
+        }
+        if ($remainder > 0) {
+            $result = $remainder . $result;
+        }
+        return $result;
     }
 }

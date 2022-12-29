@@ -7,7 +7,6 @@ use PHPUnit\Framework\TestCase;
 
 class AddStringsTest extends TestCase
 {
-
     /** @dataProvider dataProvider */
     public function testAddStrings(string $num1, string $num2, string $expected): void
     {
@@ -23,7 +22,9 @@ class AddStringsTest extends TestCase
     public function dataProvider(): array
     {
         return [
+            ['456', '777', '1233'],
             ['11', '123', '134'],
+            ['123', '678', '801'],
             ['456', '77', '533'],
             ['0', '0', '0']
         ];
