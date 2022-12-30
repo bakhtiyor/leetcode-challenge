@@ -3,12 +3,13 @@ I challenge myself to solve at least one problem a day from https://leetcode.com
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs 
 
-Progress: **86 days** / Tasks solved: **89** / Missed days: **3 days**
+Progress: **87 days** / Tasks solved: **90** / Missed days: **3 days**
 
 You can give me more motivation if you give a Star ⭐ to this project. Thank you 🙏
 
 | Day                                                         | Date              | Problem                                                                                                                                      | Level  |
 |-------------------------------------------------------------|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [87](./src/RobotReturnToOrigin.php)                         | December 30, 2022 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin)                                                               | EASY   |
 | [86](./src/AddStrings.php)                                  | December 29, 2022 | [Add Strings](https://leetcode.com/problems/add-strings)                                                                                     | EASY   |
 | [85](./src/SortPeople.php)                                  | December 28, 2022 | [Sort the People](https://leetcode.com/problems/sort-the-people)                                                                             | EASY   |
 | [84](./src/ThousandSeparator.php)                           | December 27, 2022 | [Thousand Separator](https://leetcode.com/problems/thousand-separator)                                                                       | EASY   |
