@@ -31,34 +31,9 @@ class CountingBits
     {
         $result = [];
         for ($i = 0; $i <= $number; $i++) {
-            $binary = $this->decimalToBinary($i);
-            $numberOfOnes = array_map(static fn($number) => ($number === 1), $binary);
-            $result[] = $numberOfOnes;
+            $binary = decbin($i);
+            $result[] = substr_count($binary, '1');
         }
         return $result;
-    }
-
-    /**
-     * Step 1: Divide the number by 2 and find the remainder, then store the remainder in an array.
-
-    Step 2: Divide the number by 2.
-
-    Step 3: Repeat the above two steps until the number is greater than zero.
-
-    Step 4: Print the array in reverse order to get the binary representation of the number.
-     * @param int $number
-     * @return array<array-key, int>
-     */
-    private function decimalToBinary(int $number): array
-    {
-        if ($number === 0) {
-            return [0];
-        }
-        $result = [];
-        while ($number > 0) {
-            $result[] = $number % 2;
-            $number = (int) floor($number / 2);
-        }
-        return array_reverse($result);
     }
 }
