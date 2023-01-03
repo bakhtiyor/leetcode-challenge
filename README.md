@@ -3,12 +3,13 @@ I challenge myself to solve at least one problem a day from https://leetcode.com
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs 
 
-Progress: **90 days** / Tasks solved: **93** / Missed days: **3 days**
+Progress: **91 days** / Tasks solved: **94** / Missed days: **3 days**
 
 You can give me more motivation if you give a Star ⭐ to this project. Thank you 🙏
 
 | Day                                                         | Date              | Problem                                                                                                                                      | Level  |
 |-------------------------------------------------------------|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [91](./src/FindAllDuplicatesInArray.php)                    | January 03, 2023  | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array)                                             | MEDIUM |
 | [90](./src/CountingBits.php)                                | January 02, 2023  | [Counting Bits](https://leetcode.com/problems/counting-bits)                                                                                 | EASY   |
 | [89](./src/RangeSumQuery.php)                               | January 01, 2023  | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable)                                                       | EASY   |
 | [88](./src/ShuffleString.php)                               | December 31, 2022 | [Shuffle String](https://leetcode.com/problems/shuffle-string)                                                                               | EASY   |
