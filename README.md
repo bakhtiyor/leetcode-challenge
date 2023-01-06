@@ -3,12 +3,13 @@ I challenge myself to solve at least one problem a day from https://leetcode.com
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs 
 
-Progress: **93 days** / Tasks solved: **96** / Missed days: **3 days**
+Progress: **94 days** / Tasks solved: **97** / Missed days: **3 days**
 
 You can give me more motivation if you give a Star ⭐ to this project. Thank you 🙏
 
 | Day                                                         | Date              | Problem                                                                                                                                      | Level  |
 |-------------------------------------------------------------|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [94](./src/MaximumIceCreamBars.php)                         | January 06, 2023  | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars)                                                               | MEDIUM |
 | [93](./src/CoinChange.php)                                  | January 05, 2023  | [Coin Change](https://leetcode.com/problems/coin-change)                                                                                     | MEDIUM |
 | [92](./src/WordSearch.php)                                  | January 04, 2023  | [Word Search](https://leetcode.com/problems/word-search)                                                                                     | MEDIUM |
 | [91](./src/FindAllDuplicatesInArray.php)                    | January 03, 2023  | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array)                                             | MEDIUM |
