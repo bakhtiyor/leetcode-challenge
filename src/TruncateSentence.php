@@ -29,6 +29,7 @@ class TruncateSentence
      */
     public function truncateSentence(string $str, int $k): string
     {
-        return '';
+        $strArr = explode(' ', $str);
+        return implode(' ', array_splice($strArr, 0, $k));
     }
 }
