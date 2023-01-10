@@ -3,12 +3,13 @@ I challenge myself to solve at least one problem a day from https://leetcode.com
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs 
 
-Progress: **97 days** / Tasks solved: **100** / Missed days: **3 days**
+Progress: **98 days** / Tasks solved: **101** / Missed days: **3 days**
 
 You can give me more motivation if you give a Star ⭐ to this project. Thank you 🙏
 
 | Day                                                         | Date              | Problem                                                                                                                                      | Level  |
 |-------------------------------------------------------------|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [98](./src/JumpGame.php)                                    | January 10, 2023  | [Jump Game](https://leetcode.com/problems/jump-game)                                                                                         | MEDIUM |
 | [97](./src/ContainerWithMostWater.php)                      | January 09, 2023  | [Container With Most Water](https://leetcode.com/problems/container-with-most-water)                                                         | MEDIUM |
 | [96](./src/TruncateSentence.php)                            | January 08, 2023  | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence)                                                                         | EASY   |
 | [95](./src/AssignCookies.php)                               | January 07, 2023  | [Assign Cookies](https://leetcode.com/problems/assign-cookies)                                                                               | EASY   |

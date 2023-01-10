@@ -25,10 +25,29 @@ namespace App;
 class JumpGame
 {
     /**
+     * This is a greedy solution which takes O(n) time to be executed
      * @param array<array-key, int> $nums
      * @return bool
      */
-    public function canJump(array $nums): bool
+    public function canJumpGreedySolution(array $nums): bool
+    {
+        $numsCount = count($nums);
+        $goal = $numsCount - 1;
+        for ($curIndex = $numsCount - 2; $curIndex >= 0; $curIndex--) {
+            if ($curIndex + $nums[$curIndex] >= $goal) {
+                $goal = $curIndex;
+            }
+        }
+        return $goal === 0;
+    }
+
+    /**
+     * This is a brute force solution which takes O(n^2) time to be executed
+     *
+     * @param array<array-key, int> $nums
+     * @return bool
+     */
+    public function canJumpBruteForceSolution(array $nums): bool
     {
         if (count($nums) === 1) {
             return true;
