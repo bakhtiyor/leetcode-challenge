@@ -44,7 +44,7 @@ class JumpGame
      * @param array<array-key, bool> $dp
      * @return bool
      */
-    public function jumpHelper(array $nums, int $current, int $last, array $dp): bool
+    public function jumpHelper(array $nums, int $current, int $last, array &$dp): bool
     {
         if ($current >= $last) {
             return true;
@@ -61,6 +61,7 @@ class JumpGame
                 break;
             }
         }
+        $dp[$current] = $answer;
         return $answer;
     }
 }
