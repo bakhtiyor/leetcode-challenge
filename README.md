@@ -3,12 +3,13 @@ I challenge myself to solve at least one problem a day from https://leetcode.com
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs 
 
-Progress: **98 days** / Tasks solved: **101** / Missed days: **3 days**
+Progress: **99 days** / Tasks solved: **102** / Missed days: **3 days**
 
 You can give me more motivation if you give a Star ⭐ to this project. Thank you 🙏
 
 | Day                                                         | Date              | Problem                                                                                                                                      | Level  |
 |-------------------------------------------------------------|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [99](./src/LetterCombinationsOfPhoneNumber.php)             | January 11, 2023  | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)                                                                                                    |  MEDIUM      |
 | [98](./src/JumpGame.php)                                    | January 10, 2023  | [Jump Game](https://leetcode.com/problems/jump-game)                                                                                         | MEDIUM |
 | [97](./src/ContainerWithMostWater.php)                      | January 09, 2023  | [Container With Most Water](https://leetcode.com/problems/container-with-most-water)                                                         | MEDIUM |
 | [96](./src/TruncateSentence.php)                            | January 08, 2023  | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence)                                                                         | EASY   |
