@@ -7,7 +7,7 @@ use PHPUnit\Framework\TestCase;
 
 class TestLinkedListTest extends TestCase
 {
-    public function testTest()
+    public function testTest(): void
     {
         $list = new ListNode();
         $list->addLast(10);
@@ -23,7 +23,8 @@ class TestLinkedListTest extends TestCase
         $this->assertSame(0, $list->indexOf(10));
 
         $list->removeLast();
-        $this->assertFalse($list->last->val === 30);
-        $this->assertTrue($list->last->val === 20);
+
+        $this->assertFalse($list->last?->val === 30);
+        $this->assertTrue($list->last?->val === 20);
     }
 }
