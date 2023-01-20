@@ -1,11 +1,11 @@
 # LeetCode Challenge
-I challenge myself to solve at least one problem a day from https://leetcode.com. To navigate to the source code for a specific problem click on the link of the day for that problem. The description of the problem in a leetcode is provided in the link to the problem and in the source code of the problem. 
+I challenge myself to solve at least one problem from https://leetcode.com every day. To navigate to the source code for a particular problem, click on the link of the day for that problem. The description of the problem in leetcode is given in the link to the problem and in the source code of the problem. 
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakhtiyorbs](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbakhtiyorbs&logo=leetcode&logoColor=yellow)](https://leetcode.com/bakhtiyorbs/)
 
 Progress: **108 days** / Tasks solved: **111** / Missed days: **3 days**
 
-You can give me more motivation if you give a Star ⭐ to this project. Thank you 🙏
+You can give me more motivation by giving this project a star ⭐. Thank you 🙏
 
 | Day                                                         | Date              | Problem                                                                                                                                      | Level  |
 |-------------------------------------------------------------|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------|--------|
