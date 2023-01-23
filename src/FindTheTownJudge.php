@@ -37,16 +37,16 @@ class FindTheTownJudge
      */
     public function findJudge(int $n, array $trust): int
     {
-        $b = $trust[0][1];
+        $freq = array_fill(0, $n + 1, 0);
+        foreach ($trust as $person) {
+            $freq[$person[0]]--;
+            $freq[$person[1]]++;
+        }
         for ($i = 1; $i <= $n; $i++) {
-            $judge = $i;
-            foreach ($trust as $people) {
-                if ($people[0] === $judge) {
-                    break;
-                }
+            if ($freq[$i] === $n - 1) {
+                return $i;
             }
         }
-
-        return $b;
+        return -1;
     }
 }
