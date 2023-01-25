@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakhtiyorbs](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbakhtiyorbs&logo=leetcode&logoColor=yellow)](https://leetcode.com/bakhtiyorbs/)
 
-Progress: **112 days** / Tasks solved: **115** / Missed days: **3 days**
+Progress: **113 days** / Tasks solved: **116** / Missed days: **3 days**
 
 You can give me more motivation by giving this project a star ⭐. Thank you 🙏
 
 | Day                                                         | Date              | Problem                                                                                                                                      | Level  |
 |-------------------------------------------------------------|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [113](./src/IslandPerimeter.php)                            | January 25, 2023  | [Island Perimeter](https://leetcode.com/problems/island-perimeter)                                                                           | EASY   |
 | [112](./src/RemoveLinkedListElements.php)                   | January 24, 2023  | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements)                                                     | EASY   |
 | [111](./src/FindTheTownJudge.php)                           | January 23, 2023  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge)                                                                     | EASY   |
 | [110](./src/LinkedListCycle.php)                            | January 22, 2023  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)                                                                         | EASY   |
