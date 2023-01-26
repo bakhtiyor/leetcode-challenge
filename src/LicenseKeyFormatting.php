@@ -33,7 +33,23 @@ class LicenseKeyFormatting
      * @param int $k
      * @return string
      */
-    public function  licenseKeyFormatting(string $str, int $k): string {
-        return '';
+    public function licenseKeyFormatting(string $str, int $k): string
+    {
+        $result = '';
+        $str = str_replace('-', '', $str);
+        $currentIndex = strlen($str) - 1;
+        while ($currentIndex >= 0) {
+            $tmp = '';
+            for ($i = 1; $i <= $k; $i++) {
+                $tmp .= strtoupper($str[$currentIndex]);
+                $currentIndex--;
+                if ($currentIndex < 0) {
+                    break;
+                }
+            }
+            $result .= sprintf('%s-', $tmp);
+        }
+        $result = substr($result, 0, strlen($result) - 1);
+        return strrev($result);
     }
 }
