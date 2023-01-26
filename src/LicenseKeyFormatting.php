@@ -35,21 +35,19 @@ class LicenseKeyFormatting
      */
     public function licenseKeyFormatting(string $str, int $k): string
     {
+        $str = strtoupper(str_replace('-', '', $str));
+        $remainder = strlen($str) % $k;
+        $currentIndex = 0;
         $result = '';
-        $str = str_replace('-', '', $str);
-        $currentIndex = strlen($str) - 1;
-        while ($currentIndex >= 0) {
-            $tmp = '';
-            for ($i = 1; $i <= $k; $i++) {
-                $tmp .= strtoupper($str[$currentIndex]);
-                $currentIndex--;
-                if ($currentIndex < 0) {
-                    break;
-                }
+        while ($currentIndex < strlen($str)) {
+            if ($currentIndex === 0 && $remainder > 0) {
+                $result .= sprintf('%s-', substr($str, $currentIndex, $remainder));
+                $currentIndex += $remainder;
+            } else {
+                $result .= sprintf('%s-', substr($str, $currentIndex, $k));
+                $currentIndex += $k;
             }
-            $result .= sprintf('%s-', $tmp);
         }
-        $result = substr($result, 0, strlen($result) - 1);
-        return strrev($result);
+        return substr($result, 0, -1);
     }
 }
