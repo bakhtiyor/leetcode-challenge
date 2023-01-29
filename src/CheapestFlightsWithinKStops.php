@@ -28,6 +28,7 @@ namespace App;
 class CheapestFlightsWithinKStops
 {
     /**
+     * Solution using Bellman Ford's algorithm
      * @param int $n
      * @param array<array-key, array<array-key, int>> $flights
      * @param int $src
