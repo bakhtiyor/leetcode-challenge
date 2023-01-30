@@ -36,6 +36,32 @@ class RelativeRanks
      */
     public function findRelativeRanks(array $scores): array
     {
-        return [];
+        $scoresCopy = $scores;
+        for ($i = 0, $iMax = count($scores); $i < $iMax; $i++) {
+            for ($j = $i + 1; $j < $iMax; $j++) {
+                if ($scores[$i] < $scores[$j]) {
+                    $tmp = $scores[$i];
+                    $scores[$i] = $scores[$j];
+                    $scores[$j] = $tmp;
+                }
+            }
+        }
+        $count = [];
+        for ($i = 0, $iMax = count($scores); $i < $iMax; $i++) {
+            if ($i === 0) {
+                $count[$scores[$i]] = 'Gold Medal';
+            } elseif ($i === 1) {
+                $count[$scores[$i]] = 'Silver Medal';
+            } elseif ($i === 2) {
+                $count[$scores[$i]] = 'Bronze Medal';
+            } else {
+                $count[$scores[$i]] = (string) ($i + 1);
+            }
+        }
+        $result = [];
+        foreach ($scoresCopy as $score) {
+            $result[] = $count[$score];
+        }
+        return $result;
     }
 }
