@@ -19,8 +19,8 @@ class GreatestCommonDivisorOfStringsTest extends TestCase
     public function dataProvider(): array
     {
         return [
-            ['ABCABC', 'ABC', 'ABC'],
             ['ABABAB', 'ABAB', 'AB'],
+            ['ABCABC', 'ABC', 'ABC'],
             ['LEET', 'CODE', '']
         ];
     }
