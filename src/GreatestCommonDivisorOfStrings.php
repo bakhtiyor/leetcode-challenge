@@ -41,6 +41,12 @@ class GreatestCommonDivisorOfStrings
         return '';
     }
 
+    /**
+     * @param string $str1
+     * @param string $str2
+     * @param int $k
+     * @return bool
+     */
     private function valid(string $str1, string $str2, int $k): bool
     {
         $len1 = strlen($str1);
@@ -53,10 +59,5 @@ class GreatestCommonDivisorOfStrings
             $n2 = (int) ($len2 / $k);
             return $str1 === str_repeat($base, $n1) && $str2 === str_repeat($base, $n2);
         }
-    }
-
-    private function joinWords(string $str, int $k): string
-    {
-        return str_repeat($str, $k);
     }
 }
