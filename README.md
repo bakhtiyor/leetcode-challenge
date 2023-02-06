@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakhtiyorbs](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbakhtiyorbs&logo=leetcode&logoColor=yellow)](https://leetcode.com/bakhtiyorbs/)
 
-Progress: **124 days** / Tasks solved: **127** / Missed days: **3 days**
+Progress: **125 days** / Tasks solved: **128** / Missed days: **3 days**
 
 You can give me more motivation by giving this project a star ⭐. Thank you 🙏
 
 | Day                                                         | Date              | Problem                                                                                                                                      | Level   |
 |-------------------------------------------------------------|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------|---------|
+| [125](./src/ShuffleArray.php)                               | February 06, 2023 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array)                                                                         | EASY    |
 | [124](./src/FindAllAnagramsInString.php)                    | February 05, 2023 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string)                                                 | MEDIUM  |
 | [123](./src/PermutationInString.php)                        | February 04, 2023 | [Permutation in String](https://leetcode.com/problems/permutation-in-string)                                                                 | MEDIUM  |
 | [122](./src/IsomorphicStrings.php)                          | February 03, 2023 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings)                                                                       | EASY    |
