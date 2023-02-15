@@ -29,12 +29,43 @@ namespace App;
 class AddToArrayFormOfInteger
 {
     /**
-     * @param array<array-key, int> $num
+     * @param array<array-key, int> $number
      * @param int $k
      * @return array<array-key, int>
      */
-    public function addToArrayForm(array $num, int $k): array
+    public function addToArrayForm(array $number, int $k): array
     {
-        return [];
+        $kDigits = $this->convertNumberToDigits($k);
+        $zerroDiff = abs(count($number) - count($kDigits));
+        $zerroArr = array_fill(0, $zerroDiff, 0);
+        if (count($kDigits) < count($number)) {
+            array_splice($kDigits, 0, 0, $zerroArr);
+        } else {
+            array_splice($number, 0, 0, $zerroArr);
+        }
+        $result = [];
+        $remainder = 0;
+        for ($i = count($number) - 1; $i >= 0; $i--) {
+            $result[] = ($number[$i] + $kDigits[$i] + $remainder) % 10;
+            $remainder = (int) (($number[$i] + $kDigits[$i] + $remainder) / 10);
+        }
+        if ($remainder > 0) {
+            $result[] = $remainder;
+        }
+        return array_reverse($result);
+    }
+
+    /**
+     * @param int $number
+     * @return array<array-key, int>
+     */
+    private function convertNumberToDigits(int $number): array
+    {
+        $digits = [];
+        while ($number > 0) {
+            $digits[] = $number % 10;
+            $number = (int) ($number / 10);
+        }
+        return array_reverse($digits);
     }
 }
