@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakhtiyorbs](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbakhtiyorbs&logo=leetcode&logoColor=yellow)](https://leetcode.com/bakhtiyorbs/)
 
-Progress: **139 days** / Tasks solved: **142** / Missed days: **3 days**
+Progress: **140 days** / Tasks solved: **143** / Missed days: **3 days**
 
 You can give me more motivation by giving this project a star ⭐. Thank you 🙏
 
 | Day                                                         | Date              | Problem                                                                                                                                      | Level  |
 |-------------------------------------------------------------|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [140](./src/SingleElementInSortedArray.php)                 | February 21, 2023 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array)                                           | MEDIUM |
 | [139](./src/StudentAttendanceRecord.php)                    | February 20, 2023 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/description)                                         | EASY   |
 | [138](./src/ReverseStringII.php)                            | February 19, 2023 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii)                                                                         | EASY   |
 | [137](./src/ArrayPartition.php)                             | February 18, 2023 | [Array Partition](https://leetcode.com/problems/array-partition)                                                                             | EASY   |
