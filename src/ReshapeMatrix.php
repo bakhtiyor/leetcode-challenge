@@ -25,12 +25,30 @@ class ReshapeMatrix
 {
     /**
      * @param array<array<array-key, int>> $matrix
-     * @param int $row
-     * @param int $col
+     * @param int $rowNum
+     * @param int $colNum
      * @return array<array<array-key, int>>
      */
-    public function matrixReshape(array $matrix, int $row, int $col): array
+    public function matrixReshape(array $matrix, int $rowNum, int $colNum): array
     {
-        return [];
+        $matrixRow = count($matrix);
+        $matrixCol = count($matrix[0]);
+        if ($rowNum * $colNum !== $matrixRow * $matrixCol) {
+            return $matrix;
+        }
+        $newMatrix = [];
+        $nextRow = 0;
+        $nextCol = 0;
+        for ($row = 0; $row < $matrixRow; $row++) {
+            for ($col = 0; $col < $matrixCol; $col++) {
+                if ($nextCol + 1 > $colNum) {
+                    $nextCol = 0;
+                    $nextRow++;
+                }
+                $newMatrix[$nextRow][$nextCol] = $matrix[$row][$col];
+                $nextCol++;
+            }
+        }
+        return $newMatrix;
     }
 }
