@@ -19,7 +19,8 @@ namespace App;
  * Example 2:
  * Input: candyType = [1,1,2,3]
  * Output: 2
- * Explanation: Alice can only eat 4 / 2 = 2 candies. Whether she eats types [1,2], [1,3], or [2,3], she still can only eat 2 different types.
+ * Explanation: Alice can only eat 4 / 2 = 2 candies. Whether she eats types [1,2], [1,3], or [2,3], she still can only
+ * eat 2 different types.
  *
  * Example 3:
  * Input: candyType = [6,6,6,6]
@@ -34,7 +35,15 @@ class DistributeCandies
      * @param array<array-key, int> $candyTypes
      * @return int
      */
-    public function distributeCandies(array $candyTypes): int {
-        return 1;
+    public function distributeCandies(array $candyTypes): int
+    {
+        $maxEat = (int) (count($candyTypes) / 2);
+        $eatCandies = [];
+        foreach ($candyTypes as $candyType) {
+            if (!in_array($candyType, $eatCandies, true) && count($eatCandies) < $maxEat) {
+                $eatCandies[] = $candyType;
+            }
+        }
+        return count($eatCandies);
     }
 }
