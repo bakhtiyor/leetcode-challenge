@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakhtiyorbs](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbakhtiyorbs&logo=leetcode&logoColor=yellow)](https://leetcode.com/bakhtiyorbs/)
 
-Progress: **145 days** / Tasks solved: **148** / Missed days: **3 days**
+Progress: **146 days** / Tasks solved: **149** / Missed days: **3 days**
 
 You can give me more motivation by giving this project a star ⭐. Thank you 🙏
 
 | Day                                                         | Date              | Problem                                                                                                                                      | Level  |
 |-------------------------------------------------------------|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [146](./src/UniqueEmailAddresses.php)                       | February 27, 2023 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses)                                                               | EASY   |
 | [145](./src/JewelsAndStones.php)                            | February 26, 2023 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)                                                                         | EASY   |
 | [144](./src/CanPlaceFlowers.php)                            | February 25, 2023 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers)                                                                         | EASY   |
 | [143](./src/SetMismatch.php)                                | February 24, 2023 | [Set Mismatch](https://leetcode.com/problems/set-mismatch)                                                                                   | EASY   |

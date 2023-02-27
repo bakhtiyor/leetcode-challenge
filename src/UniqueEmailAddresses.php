@@ -39,20 +39,21 @@ class UniqueEmailAddresses
     {
         $emailHashMap = [];
         foreach ($emails as $email) {
-            $email = $this->removeDots($email);
+            $parsedEmail = explode('@', $email);
+            if (isset($parsedEmail[0], $parsedEmail[1])) {
+                $localName = $parsedEmail[0];
+                $domainName = $parsedEmail[1];
+                $localName = str_replace('.', '', $localName);
+                $plusPos = strpos($localName, '+');
+                if ($plusPos !== false) {
+                    $localName = substr($localName, 0, $plusPos);
+                }
+                $email = sprintf('%s@%s', $localName, $domainName);
+                if (!isset($emailHashMap[$email])) {
+                    $emailHashMap[$email] = 1;
+                }
+            }
         }
-        return 1;
-    }
-
-    /**
-     * Removes dot characters from the local name part of the email address
-     * @param string $email
-     * @return string
-     */
-    private function removeDots(string $email): string
-    {
-        $re = '/([\w\.-]+)@([\w\.-]+)/s';
-        preg_match($re, $email, $matches);
-        $localName = $matches[0];
+        return count($emailHashMap);
     }
 }
