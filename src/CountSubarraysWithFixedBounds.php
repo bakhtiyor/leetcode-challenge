@@ -26,7 +26,7 @@ namespace App;
 class CountSubarraysWithFixedBounds
 {
     /**
-     * @param int[] $nums
+     * @param array<int, int> $nums
      * @param int $minK
      * @param int $maxK
      * @return int
