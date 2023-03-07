@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakhtiyorbs](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbakhtiyorbs&logo=leetcode&logoColor=yellow)](https://leetcode.com/bakhtiyorbs/)
 
-Progress: **153 days** / Tasks solved: **156** / Missed days: **3 days**
+Progress: **154 days** / Tasks solved: **157** / Missed days: **3 days**
 
-You can give me more motivation by giving this github repo a star ⭐. Thank you 🙏
+You can give me more motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                             | Date              | Problem                                                                                                                                          | Level  |
 |-----------------------------------------------------------------|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [154](./src/ConvertNumberToHexadecimal.php)                     | March 07, 2023    | [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal)                                                 | EASY   |
 | [153](./src/KthMissingPositiveNumber.php)                       | March 06, 2023    | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number)                                                         | EASY   |
 | [152](./src/FindFirstAndLastPositionOfElementInSortedArray.php) | March 05, 2023    | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | MEDIUM |
 | [151](./src/CountSubarraysWithFixedBounds.php)                  | March 04, 2023    | [Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds)                                             | HARD   |
