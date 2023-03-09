@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakhtiyorbs](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbakhtiyorbs&logo=leetcode&logoColor=yellow)](https://leetcode.com/bakhtiyorbs/)
 
-Progress: **155 days** / Tasks solved: **158** / Missed days: **3 days**
+Progress: **156 days** / Tasks solved: **159** / Missed days: **3 days**
 
 You can give me more motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                             | Date              | Problem                                                                                                                                          | Level  |
 |-----------------------------------------------------------------|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [156](./src/RotateString.php)                                   | March 09, 2023    | [Rotate String](https://leetcode.com/problems/rotate-string)                                                                                     | EASY   |
 | [155](./src/MaximumNumberOfBalloons.php)                        | March 08, 2023    | [Maximum Number of Balloons](MaximumNumberOfBalloons.php)                                                                                        | EASY   |
 | [154](./src/ConvertNumberToHexadecimal.php)                     | March 07, 2023    | [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal)                                                 | EASY   |
 | [153](./src/KthMissingPositiveNumber.php)                       | March 06, 2023    | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number)                                                         | EASY   |
