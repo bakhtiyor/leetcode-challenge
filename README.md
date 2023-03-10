@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakhtiyorbs](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbakhtiyorbs&logo=leetcode&logoColor=yellow)](https://leetcode.com/bakhtiyorbs/)
 
-Progress: **156 days** / Tasks solved: **159** / Missed days: **3 days**
+Progress: **157 days** / Tasks solved: **160** / Missed days: **3 days**
 
 You can give me more motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                             | Date              | Problem                                                                                                                                          | Level  |
 |-----------------------------------------------------------------|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [157](./src/CountNegativeNumbersInSortedMatrix.php)             | March 10, 2023    | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix)                             | EASY   |
 | [156](./src/RotateString.php)                                   | March 09, 2023    | [Rotate String](https://leetcode.com/problems/rotate-string)                                                                                     | EASY   |
 | [155](./src/MaximumNumberOfBalloons.php)                        | March 08, 2023    | [Maximum Number of Balloons](MaximumNumberOfBalloons.php)                                                                                        | EASY   |
 | [154](./src/ConvertNumberToHexadecimal.php)                     | March 07, 2023    | [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal)                                                 | EASY   |
