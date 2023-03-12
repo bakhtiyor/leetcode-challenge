@@ -23,7 +23,7 @@ class ExcelSheetColumnNumberTest extends TestCase
             ['A', 1],
             ['AB', 28],
             ['ZY', 701],
-            ['BCM', 143],
+            ['BCM', 1443],
             ['EF', 136]
         ];
     }
