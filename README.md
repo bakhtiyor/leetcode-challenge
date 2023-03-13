@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakhtiyorbs](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbakhtiyorbs&logo=leetcode&logoColor=yellow)](https://leetcode.com/bakhtiyorbs/)
 
-Progress: **159 days** / Tasks solved: **162** / Missed days: **3 days**
+Progress: **160 days** / Tasks solved: **163** / Missed days: **3 days**
 
 You can give me more motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                             | Date              | Problem                                                                                                                                          | Level  |
 |-----------------------------------------------------------------|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [160](./src/DesignHashMap.php)                                  | March 13, 2023    | [Design HashMap](https://leetcode.com/problems/design-hashmap)                                                                                   | EASY   |
 | [159](./src/MyHashSet.php)                                      | March 12, 2023    | [Design HashSet](https://leetcode.com/problems/design-hashset)                                                                                   | EASY   |
 | [158](./src/PowerOfFour.php)                                    | March 11, 2023    | [Power of Four](https://leetcode.com/problems/power-of-four)                                                                                     | EASY   |
 | [157](./src/CountNegativeNumbersInSortedMatrix.php)             | March 10, 2023    | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix)                             | EASY   |

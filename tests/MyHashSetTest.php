@@ -11,6 +11,7 @@ class MyHashSetTest extends TestCase
     public function testContains(array $items, int $key, bool $expected): void
     {
         $myHashSet = new MyHashSet();
+        /** @var int $item */
         foreach ($items as $item) {
             $myHashSet->add($item);
         }
@@ -31,9 +32,11 @@ class MyHashSetTest extends TestCase
     public function testAdd(array $items, array $expected): void
     {
         $myHashSet = new MyHashSet();
+        /** @var int $item */
         foreach ($items as $item) {
             $myHashSet->add($item);
         }
+        /** @var int $item */
         foreach ($items as $item) {
             $this->assertTrue($myHashSet->contains($item));
         }
@@ -52,10 +55,12 @@ class MyHashSetTest extends TestCase
     public function testRemove(array $items, int $key, array $expected): void
     {
         $myHashSet = new MyHashSet();
+        /** @var int $item */
         foreach ($items as $item) {
             $myHashSet->add($item);
         }
         $myHashSet->remove($key);
+        /** @var int $item */
         foreach ($expected as $item) {
             $this->assertTrue($myHashSet->contains($item));
         }
