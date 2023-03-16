@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakhtiyorbs](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbakhtiyorbs&logo=leetcode&logoColor=yellow)](https://leetcode.com/bakhtiyorbs/)
 
-Progress: **162 days** / Tasks solved: **165** / Missed days: **3 days**
+Progress: **163 days** / Tasks solved: **166** / Missed days: **3 days**
 
 You can give me more motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                             | Date              | Problem                                                                                                                                          | Level  |
 |-----------------------------------------------------------------|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [163](./src/CountNumberOfVowelStringsInRange.php)               | March 16, 2023    | [Count the Number of Vowel Strings in Range](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range)                           | EASY   |
 | [162](./src/CheckIfSentenceIsPangram.php)                       | March 15, 2023    | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram)                                               | EASY   |
 | [161](./src/NumberOfStudentsDoingHomeworkAtGivenTime.php)       | March 14, 2023    | [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time)             | EASY   |
 | [160](./src/DesignHashMap.php)                                  | March 13, 2023    | [Design HashMap](https://leetcode.com/problems/design-hashmap)                                                                                   | EASY   |
