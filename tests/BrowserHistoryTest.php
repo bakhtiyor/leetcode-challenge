@@ -7,7 +7,7 @@ use PHPUnit\Framework\TestCase;
 
 class BrowserHistoryTest extends TestCase
 {
-    public function testBrowserHistory()
+    public function testBrowserHistory(): void
     {
         $urls = [
             'https://leetcode.com',
