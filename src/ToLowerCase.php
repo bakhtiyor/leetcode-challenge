@@ -27,8 +27,14 @@ class ToLowerCase
      * @param string $str
      * @return string
      */
-    function toLowerCase(string $str): string
+    public function toLowerCase(string $str): string
     {
-        return '';
+        for ($i = 0, $iMax = strlen($str); $i < $iMax; $i++) {
+            $letterCode = ord($str[$i]);
+            if ($letterCode >= 65 && $letterCode <= 90) {
+                $str[$i] = chr($letterCode + 32);
+            }
+        }
+        return $str;
     }
 }
