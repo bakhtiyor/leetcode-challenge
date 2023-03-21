@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakhtiyorbs](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbakhtiyorbs&logo=leetcode&logoColor=yellow)](https://leetcode.com/bakhtiyorbs/)
 
-Progress: **167 days** / Tasks solved: **170** / Missed days: **3 days**
+Progress: **168 days** / Tasks solved: **171** / Missed days: **3 days**
 
 You can give me more motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                             | Date              | Problem                                                                                                                                          | Level  |
 |-----------------------------------------------------------------|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [168](./src/Maximum69Number.php)                                | March 21, 2023    | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number)                                                                             | EASY   |
 | [167](./src/ToLowerCase.php)                                    | March 20, 2023    | [To Lower Case](https://leetcode.com/problems/to-lower-case)                                                                                     | EASY   |
 | [166](./src/ConvertTheTemperature.php)                          | March 19, 2023    | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature)                                                                 | EASY   |
 | [165](./src/BrowserHistory.php)                                 | March 18, 2023    | [Design Browser History](https://leetcode.com/problems/design-browser-history)                                                                   | MEDIUM |
