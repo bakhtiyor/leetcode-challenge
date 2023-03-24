@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakhtiyorbs](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbakhtiyorbs&logo=leetcode&logoColor=yellow)](https://leetcode.com/bakhtiyorbs/)
 
-Progress: **170 days** / Tasks solved: **173** / Missed days: **3 days**
+Progress: **171 days** / Tasks solved: **174** / Missed days: **3 days**
 
 You can give me more motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                             | Date              | Problem                                                                                                                                          | Level  |
 |-----------------------------------------------------------------|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [171](./src/FirstLetterToAppearTwice.php)                       | March 24, 2023    | [First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice)                                                       | EASY   |
 | [170](./src/AlternatingDigitSum.php)                            | March 23, 2023    | [Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum)                                                                     | EASY   |
 | [169](./src/SeparateDigitsInArray.php)                          | March 22, 2023    | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array)                                                 | EASY   |
 | [168](./src/Maximum69Number.php)                                | March 21, 2023    | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number)                                                                             | EASY   |
