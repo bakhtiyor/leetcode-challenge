@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakhtiyorbs](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbakhtiyorbs&logo=leetcode&logoColor=yellow)](https://leetcode.com/bakhtiyorbs/)
 
-Progress: **172 days** / Tasks solved: **175** / Missed days: **3 days**
+Progress: **173 days** / Tasks solved: **176** / Missed days: **3 days**
 
 You can give me more motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                             | Date              | Problem                                                                                                                                          | Level  |
 |-----------------------------------------------------------------|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [173](./src/LeftAndRightSumDifferences.php)                     | March 26, 2023    | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences)                                                   | EASY   |
 | [172](./src/DeleteGreatestValueInEachRow.php)                   | March 25, 2023    | [Delete Greatest Value in Each Row](https://leetcode.com/problems/delete-greatest-value-in-each-row)                                             | EASY   |
 | [171](./src/FirstLetterToAppearTwice.php)                       | March 24, 2023    | [First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice)                                                       | EASY   |
 | [170](./src/AlternatingDigitSum.php)                            | March 23, 2023    | [Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum)                                                                     | EASY   |
