@@ -30,7 +30,15 @@ class MinimumCommonValue
      */
     public function getCommon(array $nums1, array $nums2): int
     {
-
-        return 1;
+        $hashNums1 = [];
+        foreach ($nums1 as $num1) {
+            $hashNums1[$num1] = true;
+        }
+        foreach ($nums2 as $num2) {
+            if (isset($hashNums1[$num2])) {
+                return $num2;
+            }
+        }
+        return -1;
     }
 }
