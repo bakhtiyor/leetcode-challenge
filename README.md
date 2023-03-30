@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakhtiyorbs](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbakhtiyorbs&logo=leetcode&logoColor=yellow)](https://leetcode.com/bakhtiyorbs/)
 
-Progress: **176 days** / Tasks solved: **179** / Missed days: **3 days**
+Progress: **177 days** / Tasks solved: **180** / Missed days: **3 days**
 
 You can give me more motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                             | Date              | Problem                                                                                                                                          | Level  |
 |-----------------------------------------------------------------|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [177](./src/MergeSimilarItems.php)                              | March 30, 2023    | [Merge Similar Items](https://leetcode.com/problems/merge-similar-items)                                                                         | EASY   |
 | [176](./src/DecodeMessage.php)                                  | March 29, 2023    | [Decode the Message](https://leetcode.com/problems/decode-the-message)                                                                           | EASY   |
 | [175](./src/MinimumCommonValue.php)                             | March 28, 2023    | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value)                                                                       | EASY   |
 | [174](./src/NumberOfEvenAndOddBits.php)                         | March 27, 2023    | [Number of Even and Odd Bits](https://leetcode.com/problems/number-of-even-and-odd-bits)                                                         | EASY   |
