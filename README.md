@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakhtiyorbs](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbakhtiyorbs&logo=leetcode&logoColor=yellow)](https://leetcode.com/bakhtiyorbs/)
 
-Progress: **182 days** / Tasks solved: **185** / Missed days: **3 days**
+Progress: **183 days** / Tasks solved: **186** / Missed days: **3 days**
 
 You can give me more motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                             | Date              | Problem                                                                                                                                          | Level  |
 |-----------------------------------------------------------------|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [183](./src/NumberOfCommonFactors.php)                          | April 05, 2023    | [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors)                                                               | EASY   |
 | [182](./src/MergeTwo2DArraysBySummingValues.php)                | April 04, 2023    | [Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values)                                     | EASY   |
 | [181](./src/ApplyOperationsToArray.php)                         | April 03, 2023    | [Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array)                                                       | EASY   |
 | [180](./src/DetermineColorOfChessboardSquare.php)               | April 02, 2023    | [Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square)                                   | EASY   |
