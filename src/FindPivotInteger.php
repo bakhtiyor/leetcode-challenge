@@ -35,6 +35,20 @@ class FindPivotInteger
      */
     public function pivotInteger(int $n): int
     {
-        return 1;
+        $sum = 0;
+        for ($i = 1; $i <= $n; $i++) {
+            $sum += $i;
+        }
+
+        $leftSum = 0;
+        for ($i = 1; $i <= $n; $i++) {
+            if ($leftSum === $sum - $leftSum - $i) {
+                return $i;
+            }
+
+            $leftSum += $i;
+        }
+
+        return -1;
     }
 }

@@ -14,7 +14,7 @@ class FindPivotIntegerTest extends TestCase
         $this->assertEquals($expected, $findPivotInteger->pivotInteger($n));
     }
 
-    public function dataProvider()
+    public function dataProvider(): array
     {
         return [
             [8, 6],
