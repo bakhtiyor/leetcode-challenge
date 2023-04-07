@@ -23,7 +23,7 @@ namespace App;
  * Output: 0
  * Explanation: Since there does not exist any pair that satisfies the conditions, we return 0.
  *
- * https://leetcode.com/problems/count-pairs-of-similar-strings/
+ * https://leetcode.com/problems/count-pairs-of-similar-strings
  */
 class CountPairsOfSimilarStrings
 {
@@ -33,6 +33,19 @@ class CountPairsOfSimilarStrings
      */
     public function similarPairs(array $words): int
     {
-        return 0;
+        $count = count($words);
+        $counter = 0;
+        for ($i = 0; $i < $count - 1; $i++) {
+            for ($j = $i + 1; $j < $count; $j++) {
+                $array = array_unique(str_split($words[$i]));
+                $array2 = array_unique(str_split($words[$j]));
+                sort($array);
+                sort($array2);
+                if ($array === $array2) {
+                    $counter++;
+                }
+            }
+        }
+        return $counter;
     }
 }
