@@ -8,7 +8,7 @@ use PHPUnit\Framework\TestCase;
 class CountPairsOfSimilarStringsTest extends TestCase
 {
     /** @dataProvider dataProvider */
-    public function testSimilarPairs(array $words, int $expected)
+    public function testSimilarPairs(array $words, int $expected): void
     {
         $countPairsOfSimilarStrings = new CountPairsOfSimilarStrings();
         $this->assertEquals($expected, $countPairsOfSimilarStrings->similarPairs($words));

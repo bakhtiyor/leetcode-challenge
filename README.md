@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakhtiyorbs](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbakhtiyorbs&logo=leetcode&logoColor=yellow)](https://leetcode.com/bakhtiyorbs/)
 
-Progress: **185 days** / Tasks solved: **188** / Missed days: **3 days**
+Progress: **186 days** / Tasks solved: **189** / Missed days: **3 days**
 
 You can give me more motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                             | Date              | Problem                                                                                                                                          | Level  |
 |-----------------------------------------------------------------|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [186](./src/CountDigitsThatDivideNumber.php)                    | April 08, 2023    | [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number)                                     | EASY   |
 | [185](./src/CountPairsOfSimilarStrings.php)                     | April 07, 2023    | [Count Pairs Of Similar Strings](https://leetcode.com/problems/count-pairs-of-similar-strings)                                                   | EASY   |
 | [184](./src/FindPivotInteger.php)                               | April 06, 2023    | [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer)                                                                   | EASY   |
 | [183](./src/NumberOfCommonFactors.php)                          | April 05, 2023    | [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors)                                                               | EASY   |
