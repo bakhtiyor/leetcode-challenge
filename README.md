@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakhtiyorbs](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbakhtiyorbs&logo=leetcode&logoColor=yellow)](https://leetcode.com/bakhtiyorbs/)
 
-Progress: **187 days** / Tasks solved: **190** / Missed days: **3 days**
+Progress: **188 days** / Tasks solved: **191** / Missed days: **3 days**
 
 You can give me more motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                             | Date              | Problem                                                                                                                                          | Level  |
 |-----------------------------------------------------------------|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [188](./src/MaximumValueOfStringInArray.php)                    | April 10, 2023    | [Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array)                                     | EASY   |
 | [187](./src/ValidSudoku.php)                                    | April 09, 2023    | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku)                                                                                       | MEDIUM |
 | [186](./src/CountDigitsThatDivideNumber.php)                    | April 08, 2023    | [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number)                                     | EASY   |
 | [185](./src/CountPairsOfSimilarStrings.php)                     | April 07, 2023    | [Count Pairs Of Similar Strings](https://leetcode.com/problems/count-pairs-of-similar-strings)                                                   | EASY   |
