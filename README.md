@@ -3,13 +3,14 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakhtiyorbs](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbakhtiyorbs&logo=leetcode&logoColor=yellow)](https://leetcode.com/bakhtiyorbs/)
 
-Progress: **191 days** / Tasks solved: **194** / Missed days: **3 days**
+Progress: **192 days** / Tasks solved: **195** / Missed days: **3 days**
 
 You can give me more motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                             | Date              | Problem                                                                                                                                          | Level  |
 |-----------------------------------------------------------------|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|--------|
-| [191](./src/CategorizeBoxAccordingToCriteria.php)               | April 13, 2023    | [Categorize Box According to Criteria](https://leetcode.com/problems/categorize-box-according-to-criteria)                                       | EASY   |
+| [192](./src/CategorizeBoxAccordingToCriteria.php)               | April 14, 2023    | [Categorize Box According to Criteria](https://leetcode.com/problems/categorize-box-according-to-criteria)                                       | EASY   |
+| [191](./src/ConcatenationOfArray.php)                           | April 13, 2023    | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array)                                                                   | EASY   |
 | [190](./src/ReformatDate.php)                                   | April 12, 2023    | [Reformat Date](https://leetcode.com/problems/reformat-date)                                                                                     | EASY   |
 | [189](./src/RectangleOverlap.php)                               | April 11, 2023    | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap)                                                                             | EASY   |
 | [188](./src/MaximumValueOfStringInArray.php)                    | April 10, 2023    | [Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array)                                     | EASY   |
