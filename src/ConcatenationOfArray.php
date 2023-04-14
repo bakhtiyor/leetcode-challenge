@@ -33,6 +33,14 @@ class ConcatenationOfArray
      */
     public function getConcatenation(array $nums): array
     {
-        return array_merge($nums, $nums);
+        $n = count($nums);
+        $ans = array();
+        for ($i = 0; $i < $n; $i++) {
+            $ans[] = $nums[$i];
+        }
+        for ($i = 0; $i < $n; $i++) {
+            $ans[] = $nums[$i];
+        }
+        return $ans;
     }
 }
