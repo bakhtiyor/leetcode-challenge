@@ -37,25 +37,9 @@ class CountDaysSpentTogether
      */
     public function countDaysTogether(string $arriveAlice, string $leaveAlice, string $arriveBob, string $leaveBob): int
     {
-        $daysInMonth = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
-        /** @var int[] $arriveAlice */
-        $arriveAlice = explode('-', $arriveAlice);
-        /** @var int[] $leaveAlice */
-        $leaveAlice = explode('-', $leaveAlice);
-        /** @var int[] $arriveBob */
-        $arriveBob = explode('-', $arriveBob);
-        /** @var int[] $leaveBob */
-        $leaveBob = explode('-', $leaveBob);
+        $arrival = max('2022-' . $arriveAlice, '2022-' . $arriveBob);
+        $leave = min('2022-' . $leaveAlice, '2022-' . $leaveBob);
 
-        $arriveAlice = $arriveAlice[1] + $daysInMonth[$arriveAlice[0] - 1];
-        $leaveAlice = $leaveAlice[1] + $daysInMonth[$leaveAlice[0] - 1];
-        $arriveBob = $arriveBob[1] + $daysInMonth[$arriveBob[0] - 1];
-        $leaveBob = $leaveBob[1] + $daysInMonth[$leaveBob[0] - 1];
-
-        if ($arriveAlice <= $arriveBob && $leaveAlice >= $arriveBob) {
-            return min($leaveAlice, $leaveBob) - $arriveBob + 1;
-        }
-
-        return 0;
+        return $arrival > $leave ? 0 : (strtotime($leave) - strtotime($arrival)) / (24 * 60 * 60) + 1;
     }
 }

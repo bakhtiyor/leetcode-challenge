@@ -27,6 +27,7 @@ class CountDaysSpentTogetherTest extends TestCase
     public function dataProvider(): array
     {
         return [
+            ['10-20', '12-22', '06-21', '07-05', 0],
             ['08-15', '08-18', '08-16', '08-19', 3],
             ['10-01', '10-31', '11-01', '12-31', 0],
         ];
