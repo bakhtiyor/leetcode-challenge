@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakhtiyorbs](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbakhtiyorbs&logo=leetcode&logoColor=yellow)](https://leetcode.com/bakhtiyorbs/)
 
-Progress: **194 days** / Tasks solved: **197** / Missed days: **3 days**
+Progress: **195 days** / Tasks solved: **198** / Missed days: **3 days**
 
 You can give me more motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                             | Date              | Problem                                                                                                                                          | Level  |
 |-----------------------------------------------------------------|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [195](./src/KidsWithGreatestNumberOfCandies.php)                | April 17, 2023    | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies)                               | EASY   |
 | [194](./src/CountDaysSpentTogether.php)                         | April 16, 2023    | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together)                                                             | EASY   |
 | [193](./src/CombinationSum.php)                                 | April 15, 2023    | [Combination Sum](https://leetcode.com/problems/combination-sum/description)                                                                     | MEDIUM |
 | [192](./src/CategorizeBoxAccordingToCriteria.php)               | April 14, 2023    | [Categorize Box According to Criteria](https://leetcode.com/problems/categorize-box-according-to-criteria)                                       | EASY   |
