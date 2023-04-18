@@ -36,7 +36,7 @@ namespace App;
 class KidsWithGreatestNumberOfCandies
 {
     /**
-     * @param int[] $candies
+     * @param non-empty-array<array-key, int> $candies
      * @param int $extraCandies
      * @return bool[]
      */

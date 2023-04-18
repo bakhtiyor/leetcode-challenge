@@ -40,6 +40,6 @@ class CountDaysSpentTogether
         $arrival = max('2022-' . $arriveAlice, '2022-' . $arriveBob);
         $leave = min('2022-' . $leaveAlice, '2022-' . $leaveBob);
 
-        return $arrival > $leave ? 0 : (strtotime($leave) - strtotime($arrival)) / (24 * 60 * 60) + 1;
+        return $arrival > $leave ? 0 : (int) ((strtotime($leave) - strtotime($arrival)) / (24 * 60 * 60) + 1);
     }
 }
