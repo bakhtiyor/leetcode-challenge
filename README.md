@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakhtiyorbs](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbakhtiyorbs&logo=leetcode&logoColor=yellow)](https://leetcode.com/bakhtiyorbs/)
 
-Progress: **199 days** / Tasks solved: **202** / Missed days: **3 days**
+Progress: **200 days** / Tasks solved: **203** / Missed days: **3 days**
 
 You can give me more motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                             | Date              | Problem                                                                                                                                          | Level  |
 |-----------------------------------------------------------------|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [200](./src/MatrixDiagonalSum.php)                              | April 22, 2023    | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum)                                                                         | EASY   |
 | [199](./src/DayOfTheWeek.php)                                   | April 21, 2023    | [Day of the Week](https://leetcode.com/problems/day-of-the-week)                                                                                 | EASY   |
 | [198](./src/CheckIfNumberHasEqualDigitCountAndDigitValue.php)   | April 20, 2023    | [Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value)     | EASY   |
 | [197](./src/PrimeInDiagonal.php)                                | April 19, 2023    | [Prime In Diagonal](https://leetcode.com/problems/prime-in-diagonal)                                                                             | EASY   |
