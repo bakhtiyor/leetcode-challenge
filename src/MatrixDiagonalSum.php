@@ -31,6 +31,6 @@ class MatrixDiagonalSum
             $sum += $mat[$i][$i];
             $sum += $mat[$i][$n - $i - 1];
         }
-        return $sum - ($n % 2 === 0 ? 0 : $mat[$n / 2][$n / 2]);
+        return $sum - ($n % 2 === 0 ? 0 : $mat[(int) ($n / 2)][(int) ($n / 2)]);
     }
 }
