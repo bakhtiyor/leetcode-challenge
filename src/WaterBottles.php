@@ -32,6 +32,11 @@ class WaterBottles
      */
     public function numWaterBottles(int $numBottles, int $numExchange): int
     {
-        return 1;
+        $drunk = $numBottles;
+        while ($numBottles >= $numExchange) {
+            $drunk += intdiv($numBottles, $numExchange);
+            $numBottles = intdiv($numBottles, $numExchange) + $numBottles % $numExchange;
+        }
+        return $drunk;
     }
 }
