@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakhtiyorbs](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbakhtiyorbs&logo=leetcode&logoColor=yellow)](https://leetcode.com/bakhtiyorbs/)
 
-Progress: **204 days** / Tasks solved: **207** / Missed days: **3 days**
+Progress: **205 days** / Tasks solved: **208** / Missed days: **3 days**
 
 You can give me more motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                             | Date              | Problem                                                                                                                                          | Level  |
 |-----------------------------------------------------------------|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [205](./src/LargestPerimeterTriangle.php)                       | April 27, 2023    | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle)                                                           | EASY   |
 | [204](./src/SecondLargestDigitInString.php)                     | April 26, 2023    | [Second-Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string)                                               | EASY   |
 | [203](./src/TransposeMatrix.php)                                | April 25, 2023    | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix)                                                                               | EASY   |
 | [202](./src/WaterBottles.php)                                   | April 24, 2023    | [Water Bottles](https://leetcode.com/problems/water-bottles)                                                                                     | EASY   |
