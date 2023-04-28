@@ -32,7 +32,7 @@ class SecondLargestDigitInString
         $max = PHP_INT_MIN;
         for ($i = 0, $iMax = strlen($str); $i < $iMax; $i++) {
             if (is_numeric($str[$i])) {
-                $digits[] = $str[$i];
+                $digits[] = (int) $str[$i];
                 if ($max < $str[$i]) {
                     $max = $str[$i];
                 }
