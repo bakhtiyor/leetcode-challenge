@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakhtiyorbs](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbakhtiyorbs&logo=leetcode&logoColor=yellow)](https://leetcode.com/bakhtiyorbs/)
 
-Progress: **210 days** / Tasks solved: **213** / Missed days: **3 days**
+Progress: **211 days** / Tasks solved: **214** / Missed days: **3 days**
 
 You can give me more motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                               | Date              | Problem                                                                                                                                              | Level  |
 |-------------------------------------------------------------------|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [211](./src/FindDifferenceOfTwoArrays.php)                        | May 03, 2023      | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays)                                                 | EASY   |
 | [210](./src/SignOfTheProductOfAnArray.php)                        | May 02, 2023      | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array)                                                     | EASY   |
 | [209](./src/AverageValueOfEvenNumbersThatAreDivisibleByThree.php) | May 01, 2023      | [Average Value of Even Numbers That Are Divisible by Three](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three) | EASY   |
 | [208](./src/ReplaceAllDigitsWithCharacters.php)                   | April 30, 2023    | [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters)                                               | EASY   |
