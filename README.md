@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakhtiyorbs](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbakhtiyorbs&logo=leetcode&logoColor=yellow)](https://leetcode.com/bakhtiyorbs/)
 
-Progress: **212 days** / Tasks solved: **215** / Missed days: **3 days**
+Progress: **213 days** / Tasks solved: **216** / Missed days: **3 days**
 
 You can give me more motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                               | Date              | Problem                                                                                                                                              | Level  |
 |-------------------------------------------------------------------|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [213](./src/CapitalizeTheTitle.php)                               | May 05, 2023      | [Capitalize the Title](https://leetcode.com/problems/capitalize-the-title)                                                                           | EASY   |
 | [212](./src/MinMaxGame.php)                                       | May 04, 2023      | [Min Max Game](https://leetcode.com/problems/min-max-game)                                                                                           | EASY   |
 | [211](./src/FindDifferenceOfTwoArrays.php)                        | May 03, 2023      | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays)                                                 | EASY   |
 | [210](./src/SignOfTheProductOfAnArray.php)                        | May 02, 2023      | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array)                                                     | EASY   |
