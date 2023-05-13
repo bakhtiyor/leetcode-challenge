@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakhtiyorbs](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbakhtiyorbs&logo=leetcode&logoColor=yellow)](https://leetcode.com/bakhtiyorbs/)
 
-Progress: **219 days** / Tasks solved: **222** / Missed days: **4 days**
+Progress: **220 days** / Tasks solved: **223** / Missed days: **4 days**
 test
 You can give me more motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                               | Date              | Problem                                                                                                                                              | Level  |
 |-------------------------------------------------------------------|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [220](./src/DefangingIPAddress.php)                               | May 13, 2023      | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address)                                                                     | EASY   |
 | [219](./src/MaximumPopulationYear.php)                            | May 12, 2023      | [Maximum Population Year](https://leetcode.com/problems/maximum-population-year)                                                                     | EASY   |
 | [218](./src/DestinationCity.php)                                  | May 11, 2023      | [Destination City](https://leetcode.com/problems/destination-city)                                                                                   | EASY   |
 | [217](./src/NumberOfGoodPairs.php)                                | May 10, 2023      | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs)                                                                           | EASY   |
