@@ -5,7 +5,7 @@ My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakht
 
 Progress: **220 days** / Tasks solved: **223** / Missed days: **4 days**
 test
-You can give me more motivation by giving this GitHub repo a star ⭐. Thank you 🙏
+You can give me more  motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                               | Date              | Problem                                                                                                                                              | Level  |
 |-------------------------------------------------------------------|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
