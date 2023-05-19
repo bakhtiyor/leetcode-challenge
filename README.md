@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakhtiyorbs](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbakhtiyorbs&logo=leetcode&logoColor=yellow)](https://leetcode.com/bakhtiyorbs/)
 
-Progress: **225 days** /Tasks solved: **228** / Missed days: **4 days**
+Progress: **226 days** /Tasks solved: **229** / Missed days: **4 days**
 test
 You can give me more  motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                               | Date              | Problem                                                                                                                                              | Level  |
 |-------------------------------------------------------------------|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [226](./src/FindMiddleIndexInArray.php)                           | May 19, 2023      | [Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array)                                                       | EASY   |
 | [225](./src/CalculateDelayedArrivalTime.php)                      | May 18, 2023      | [Calculate Delayed Arrival Time](https://leetcode.com/problems/calculate-delayed-arrival-time)                                                       | EASY   |
 | [224](./src/NumberOfSeniorCitizens.php)                           | May 17, 2023      | [Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens)                                                                 | EASY   |
 | [223](./src/RunningSumOf1dArray.php)                              | May 16, 2023      | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array)                                                                     | EASY   |
