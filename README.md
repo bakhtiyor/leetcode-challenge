@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakhtiyorbs](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbakhtiyorbs&logo=leetcode&logoColor=yellow)](https://leetcode.com/bakhtiyorbs/)
 
-Progress: **233 days** /Tasks solved: **236** / Missed days: **4 days**
+Progress: **234 days** /Tasks solved: **237** / Missed days: **4 days**
 test
 You can give me more  motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                               | Date              | Problem                                                                                                                                              | Level  |
 |-------------------------------------------------------------------|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [234](./src/DivisorGame.php)                                      | May 27, 2023      | [Divisor Game](https://leetcode.com/problems/divisor-game)                                                                                           | EASY   |
 | [233](./src/ElementAppearingMoreThan25PercentInSortedArray.php)   | May 26, 2023      | [Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array)                      | EASY   |
 | [232](./src/CountSpecialQuadruplets.php)                          | May 25, 2023      | [Count Special Quadruplets](https://leetcode.com/problems/count-special-quadruplets)                                                                 | EASY   |
 | [231](./src/SumUniqueElements.php)                                | May 24, 2023      | [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements)                                                                       | EASY   |
