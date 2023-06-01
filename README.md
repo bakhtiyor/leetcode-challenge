@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakhtiyorbs](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbakhtiyorbs&logo=leetcode&logoColor=yellow)](https://leetcode.com/bakhtiyorbs/)
 
-Progress: **238 days** /Tasks solved: **241** / Missed days: **4 days**
+Progress: **239 days** /Tasks solved: **242** / Missed days: **4 days**
 test
 You can give me more  motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                               | Date              | Problem                                                                                                                                              | Level  |
 |-------------------------------------------------------------------|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [239](./src/RemoveTrailingZerosFromString.php)                    | June 01, 2023     | [Remove Trailing Zeros From a String](https://leetcode.com/problems/remove-trailing-zeros-from-a-string)                                             | EASY   |
 | [238](./src/TwoOutOfThree.php)                                    | May 31, 2023      | [Two Out of Three](https://leetcode.com/problems/two-out-of-three)                                                                                   | EASY   |
 | [237](./src/DecryptStringFromAlphabetToIntegerMapping.php)        | May 30, 2023      | [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping)                     | EASY   |
 | [236](./src/CalculateMoneyInLeetcodeBank.php)                     | May 29, 2023      | [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank)                                                   | EASY   |
