@@ -38,32 +38,29 @@ class TwoOutOfThree
      * @param int[] $nums3
      * @return int[]
      */
-    public function twoOutOfThree(array $nums1, array $nums2, array $nums3): array
+    public function twoOutOfThree($nums1, $nums2, $nums3)
     {
-        $result = [];
-        $nums1 = array_unique($nums1);
-        $nums2 = array_unique($nums2);
-        $nums3 = array_unique($nums3);
+        $unique_nums = array_unique(array_merge($nums1, $nums2, $nums3));
 
-        foreach ($nums1 as $num) {
-            if (in_array($num, $nums2, true) || in_array($num, $nums3, true)) {
-                $result[] = $num;
+        $ans = [];
+        foreach ($unique_nums as $key => $num) {
+            $hits = 0;
+            if (in_array($num, $nums1, true)) {
+                $hits++;
+            }
+            if (in_array($num, $nums2, true)) {
+                $hits++;
+            }
+            if (in_array($num, $nums3, true)) {
+                $hits++;
+            }
+
+            if ($hits >= 2) {
+                $ans[] = $num;
             }
         }
 
-        foreach ($nums2 as $num) {
-            if (in_array($num, $nums1, true) || in_array($num, $nums3, true)) {
-                $result[] = $num;
-            }
-        }
-
-        foreach ($nums3 as $num) {
-            if (in_array($num, $nums1, true) || in_array($num, $nums2, true)) {
-                $result[] = $num;
-            }
-        }
-
-        return array_unique($result);
+        return $ans;
     }
 
 }
