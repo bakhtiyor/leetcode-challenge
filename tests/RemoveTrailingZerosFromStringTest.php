@@ -8,7 +8,7 @@ use PHPUnit\Framework\TestCase;
 class RemoveTrailingZerosFromStringTest extends TestCase
 {
     /** @dataProvider dataProvider */
-    public function testRemoveTrailingZeros(string $num, string $expected)
+    public function testRemoveTrailingZeros(string $num, string $expected): void
     {
         $removeTrailingZerosFromString = new RemoveTrailingZerosFromString();
         $result = $removeTrailingZerosFromString->removeTrailingZeros($num);
