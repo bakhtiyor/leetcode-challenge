@@ -38,12 +38,12 @@ class TwoOutOfThree
      * @param int[] $nums3
      * @return int[]
      */
-    public function twoOutOfThree($nums1, $nums2, $nums3)
+    public function twoOutOfThree(array $nums1, array $nums2, array $nums3): array
     {
         $unique_nums = array_unique(array_merge($nums1, $nums2, $nums3));
 
         $ans = [];
-        foreach ($unique_nums as $key => $num) {
+        foreach ($unique_nums as $num) {
             $hits = 0;
             if (in_array($num, $nums1, true)) {
                 $hits++;
