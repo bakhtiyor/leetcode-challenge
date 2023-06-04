@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakhtiyorbs](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbakhtiyorbs&logo=leetcode&logoColor=yellow)](https://leetcode.com/bakhtiyorbs/)
 
-Progress: **241 days** /Tasks solved: **244** / Missed days: **4 days**
+Progress: **242 days** /Tasks solved: **245** / Missed days: **4 days**
 test
 You can give me more  motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                               | Date              | Problem                                                                                                                                               | Level  |
 |-------------------------------------------------------------------|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [242](./src/Convert1DArrayInto2DArray.php)                        | June 04, 2023     | [Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array)                                                        | EASY   |
 | [241](./src/CalculateAmountPaidInTaxes.php)                       | June 03, 2023     | [Calculate Amount Paid in Taxes](https://leetcode.com/problems/calculate-amount-paid-in-taxes)                                                        | EASY   |
 | [240](./src/TimeNeededToBuyTickets.php)                           | June 02, 2023     | [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets)                                                                | EASY   |
 | [239](./src/RemoveTrailingZerosFromString.php)                    | June 01, 2023     | [Remove Trailing Zeros From a String](https://leetcode.com/problems/remove-trailing-zeros-from-a-string)                                              | EASY   |
