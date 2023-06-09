@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakhtiyorbs](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbakhtiyorbs&logo=leetcode&logoColor=yellow)](https://leetcode.com/bakhtiyorbs/)
 
-Progress: **246 days** /Tasks solved: **249** / Missed days: **4 days**
+Progress: **247 days** /Tasks solved: **250** / Missed days: **4 days**
 test
 You can give me more  motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                               | Date              | Problem                                                                                                                                               | Level  |
 |-------------------------------------------------------------------|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [247](./src/GreatestEnglishLetterInUpperAndLowerCase.php)         | June 09, 2023     | [Greatest English Letter in Upper and Lower Case](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case)                      | EASY   |
 | [246](./src/LuckyNumbersInMatrix.php)                             | June 08, 2023     | [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix)                                                                  | EASY   |
 | [245](./src/IncreasingDecreasingString.php)                       | June 07, 2023     | [Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string)                                                            | EASY   |
 | [244](./src/CountItemsMatchingRule.php)                           | June 06, 2023     | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule)                                                              | EASY   |
