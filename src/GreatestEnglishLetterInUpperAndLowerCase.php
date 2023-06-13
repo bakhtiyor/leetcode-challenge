@@ -33,6 +33,7 @@ namespace App;
 class GreatestEnglishLetterInUpperAndLowerCase
 {
     /**
+     * @psalm-suppress UnusedForeachValue
      * @param string $str
      * @return string
      */
@@ -40,7 +41,7 @@ class GreatestEnglishLetterInUpperAndLowerCase
     {
         $str = array_fill_keys(str_split($str), "");
         krsort($str);
-        foreach ($str as $k => $v) {
+        foreach ($str as $k => $value) {
             if (ctype_upper($k)) {
                 break;
             }

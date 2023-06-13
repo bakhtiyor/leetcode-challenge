@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakhtiyorbs](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbakhtiyorbs&logo=leetcode&logoColor=yellow)](https://leetcode.com/bakhtiyorbs/)
 
-Progress: **249 days** /Tasks solved: **252** / Missed days: **4 days**
+Progress: **250 days** /Tasks solved: **253** / Missed days: **5 days**
 test
 You can give me more  motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                               | Date              | Problem                                                                                                                                              | Level  |
 |-------------------------------------------------------------------|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [250](./src/MaximumNumberOfBallsInBox.php)                        | June 12, 2023     | [Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box)                                                   | EASY   |
 | [249](./src/ReformatPhoneNumber.php)                              | June 11, 2023     | [Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number)                                                                         | EASY   |
 | [248](./src/NumberOfStepsToReduceNumberToZero.php)                | June 10, 2023     | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero)                               | EASY   |
 | [247](./src/GreatestEnglishLetterInUpperAndLowerCase.php)         | June 09, 2023     | [Greatest English Letter in Upper and Lower Case](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case)                     | EASY   |
