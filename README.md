@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakhtiyorbs](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbakhtiyorbs&logo=leetcode&logoColor=yellow)](https://leetcode.com/bakhtiyorbs/)
 
-Progress: **251 days** /Tasks solved: **254** / Missed days: **5 days**
+Progress: **252 days** /Tasks solved: **255** / Missed days: **5 days**
 test
 You can give me more  motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                               | Date              | Problem                                                                                                                                              | Level  |
 |-------------------------------------------------------------------|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [252](./src/TwoFurthestHousesWithDifferentColors.php)             | June 14, 2023     | [Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors)                                 | EASY   |
 | [251](./src/CheckIfEveryRowAndColumnContainsAllNumbers.php)       | June 13, 2023     | [Check if Every Row and Column Contains All Numbers](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers)               | EASY   |
 | [250](./src/MaximumNumberOfBallsInBox.php)                        | June 12, 2023     | [Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box)                                                   | EASY   |
 | [249](./src/ReformatPhoneNumber.php)                              | June 11, 2023     | [Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number)                                                                         | EASY   |
