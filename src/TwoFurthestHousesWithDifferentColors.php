@@ -36,12 +36,13 @@ namespace App;
 class TwoFurthestHousesWithDifferentColors
 {
     /**
-     * @param int[] $colors
+     * @param array<int, int> $colors
      * @return int
      */
     public function maxDistance(array $colors): int
     {
         $result = 0;
+
         foreach ($colors as $k => $color) {
             foreach ($colors as $key => $col) {
                 if ($color !== $col) {
