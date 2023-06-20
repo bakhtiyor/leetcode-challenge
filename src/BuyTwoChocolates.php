@@ -34,16 +34,14 @@ class BuyTwoChocolates
      */
     public function buyChoco(array $prices, int $money): int
     {
-        $min = $money;
-        $count = count($prices);
-        for ($i = 0; $i < $count; $i++) {
-            for ($j = $i + 1; $j < $count; $j++) {
-                $sum = $prices[$i] + $prices[$j];
-                if ($sum <= $money && $money - $sum < $min) {
-                    $min = $money - $sum;
-                }
-            }
+        sort($prices);
+
+        $moneyLeft = $money - ($prices[0] + $prices[1]);
+
+        if ($moneyLeft < 0) {
+            return $money;
         }
-        return $min;
+
+        return $moneyLeft;
     }
 }
