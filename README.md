@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakhtiyorbs](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbakhtiyorbs&logo=leetcode&logoColor=yellow)](https://leetcode.com/bakhtiyorbs/)
 
-Progress: **256 days** /Tasks solved: **259** / Missed days: **5 days**
+Progress: **257 days** /Tasks solved: **260** / Missed days: **5 days**
 test
 You can give me more  motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                               | Date              | Problem                                                                                                                                              | Level  |
 |-------------------------------------------------------------------|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [257](./src/BuyTwoChocolates.php)                                 | June 20, 2023     | [Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates)                                                                               | EASY   |
 | [256](./src/TotalDistanceTraveled.php)                            | June 19, 2023     | [Total Distance Traveled](https://leetcode.com/problems/total-distance-traveled)                                                                     | EASY   |
 | [255](./src/Finding3DigitEvenNumbers.php)                         | June 18, 2023     | [Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers)                                                           | EASY   |
 | [254](./src/RemoveOneElementToMakeArrayStrictlyIncreasing.php)    | June 17, 2023     | [Remove One Element to Make the Array Strictly Increasing](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing)   | EASY   |
