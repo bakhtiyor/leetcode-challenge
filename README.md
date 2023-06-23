@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakhtiyorbs](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbakhtiyorbs&logo=leetcode&logoColor=yellow)](https://leetcode.com/bakhtiyorbs/)
 
-Progress: **259 days** /Tasks solved: **262** / Missed days: **5 days**
+Progress: **260 days** /Tasks solved: **263** / Missed days: **5 days**
 test
 You can give me more  motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                               | Date              | Problem                                                                                                                                              | Level  |
 |-------------------------------------------------------------------|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [260](./src/CheckIfTheNumberIsFascinating.php)                    | June 23, 2023     | [Check if The Number is Fascinating](https://leetcode.com/problems/check-if-the-number-is-fascinating)                                               | EASY   |
 | [259](./src/NumberAfterDoubleReversal.php)                        | June 22, 2023     | [A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal)                                                   | EASY   |
 | [258](./src/SplitWithMinimumSum.php)                              | June 21, 2023     | [Split With Minimum Sum](https://leetcode.com/problems/split-with-minimum-sum)                                                                       | EASY   |
 | [257](./src/BuyTwoChocolates.php)                                 | June 20, 2023     | [Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates)                                                                               | EASY   |
