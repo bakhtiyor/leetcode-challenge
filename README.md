@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakhtiyorbs](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbakhtiyorbs&logo=leetcode&logoColor=yellow)](https://leetcode.com/bakhtiyorbs/)
 
-Progress: **262 days** /Tasks solved: **265** / Missed days: **5 days**
+Progress: **263 days** /Tasks solved: **266** / Missed days: **5 days**
 test
 You can give me more  motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                               | Date              | Problem                                                                                                                                              | Level  |
 |-------------------------------------------------------------------|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [263](./src/CountDistinctNumbersOnBoard.php)                      | June 26, 2023     | [Count Distinct Numbers on Board](https://leetcode.com/problems/count-distinct-numbers-on-board)                                                     | EASY   |
 | [262](./src/CountOperationsToObtainZero.php)                      | June 25, 2023     | [Count Operations to Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero)                                                     | EASY   |
 | [261](./src/NeitherMinimumNorMaximum.php)                         | June 24, 2023     | [Neither Minimum nor Maximum](https://leetcode.com/problems/neither-minimum-nor-maximum)                                                             | EASY   |
 | [260](./src/CheckIfTheNumberIsFascinating.php)                    | June 23, 2023     | [Check if The Number is Fascinating](https://leetcode.com/problems/check-if-the-number-is-fascinating)                                               | EASY   |
