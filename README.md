@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakhtiyorbs](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbakhtiyorbs&logo=leetcode&logoColor=yellow)](https://leetcode.com/bakhtiyorbs/)
 
-Progress: **267 days** /Tasks solved: **270** / Missed days: **5 days**
+Progress: **268 days** /Tasks solved: **271** / Missed days: **5 days**
 test
 You can give me more  motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                               | Date              | Problem                                                                                                                                              | Level  |
 |-------------------------------------------------------------------|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [268](./src/DivideStringIntoGroupsOfSizeK.php)                    | July 01, 2023     | [Divide a String Into Groups of Size k](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k)                                         | EASY   |
 | [267](./src/NumberOfBeautifulPairs.php)                           | June 30, 2023     | [Number of Beautiful Pairs](https://leetcode.com/problems/number-of-beautiful-pairs)                                                                 | EASY   |
 | [266](./src/LargestOddNumberInString.php)                         | June 29, 2023     | [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string)                                                           | EASY   |
 | [265](./src/PercentageOfLetterInString.php)                       | June 28, 2023     | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string)                                                       | EASY   |
