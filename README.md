@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakhtiyorbs](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbakhtiyorbs&logo=leetcode&logoColor=yellow)](https://leetcode.com/bakhtiyorbs/)
 
-Progress: **270 days** /Tasks solved: **273** / Missed days: **5 days**
+Progress: **271 days** /Tasks solved: **274** / Missed days: **5 days**
 test
 You can give me more  motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                               | Date              | Problem                                                                                                                                              | Level  |
 |-------------------------------------------------------------------|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [271](./src/MinimumSumOfFourDigitNumberAfterSplittingDigits.php)  | July 04, 2023     | [Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits)     | EASY   |
 | [270](./src/AverageSalaryExcludingMinimumAndMaximumSalary.php)    | July 03, 2023     | [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary)     | EASY   |
 | [269](./src/IntersectionOfMultipleArrays.php)                     | July 02, 2023     | [Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays)                                                     | EASY   |
 | [268](./src/DivideStringIntoGroupsOfSizeK.php)                    | July 01, 2023     | [Divide a String Into Groups of Size k](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k)                                         | EASY   |
