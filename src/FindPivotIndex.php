@@ -38,13 +38,14 @@ namespace App;
 class FindPivotIndex
 {
     /**
-     * @param int[] $nums
+     * @param array<array-key, int> $nums
      * @return int
      */
     public function pivotIndex(array $nums): int
     {
         $sum = array_sum($nums);
         $leftSum = 0;
+        /** @var int $index */
         foreach ($nums as $index => $num) {
             if ($leftSum === ($sum - $leftSum - $num)) {
                 return $index;
