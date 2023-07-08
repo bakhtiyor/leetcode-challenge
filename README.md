@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakhtiyorbs](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbakhtiyorbs&logo=leetcode&logoColor=yellow)](https://leetcode.com/bakhtiyorbs/)
 
-Progress: **274 days** /Tasks solved: **277** / Missed days: **5 days**
+Progress: **275 days** /Tasks solved: **278** / Missed days: **5 days**
 test
 You can give me more  motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                               | Date              | Problem                                                                                                                                              | Level  |
 |-------------------------------------------------------------------|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [275](./src/LargestPositiveIntegerThatExistsWithItsNegative.php)  | July 08, 2023     | [Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative)       | EASY   |
 | [274](./src/FindPivotIndex.php)                                   | July 07, 2023     | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index)                                                                                   | EASY   |
 | [273](./src/MinimumAbsoluteDifference.php)                        | July 06, 2023     | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference)                                                             | EASY   |
 | [272](./src/MaximumCountOfPositiveIntegerAndNegativeInteger.php)  | July 05, 2023     | [Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer)       | EASY   |
