@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakhtiyorbs](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbakhtiyorbs&logo=leetcode&logoColor=yellow)](https://leetcode.com/bakhtiyorbs/)
 
-Progress: **282 days** /Tasks solved: **286** / Missed days: **5 days**
+Progress: **283 days** /Tasks solved: **287** / Missed days: **5 days**
 test
 You can give me more  motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                                 | Date              | Problem                                                                                                                                              | Level  |
 |---------------------------------------------------------------------|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [283](./src/MaximumProductOfThreeNumbers.php)                       | July 16, 2023     | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers)                                                   | EASY   |
 | [282](./src/LargestNumberAtLeastTwiceOfOthers.php)                  | July 15, 2023     | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others)                                     | EASY   |
 | [281](./src/FindNearestPointThatHasSameXOrYCoordinate.php))         | July 14, 2023     | [Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate)       | EASY   |
 | [280](./src/ThreeDivisors.php)                                      | July 13, 2023     | [Three Divisors](https://leetcode.com/problems/three-divisors)                                                                                       | EASY   |
