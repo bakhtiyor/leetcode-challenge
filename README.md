@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakhtiyorbs](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbakhtiyorbs&logo=leetcode&logoColor=yellow)](https://leetcode.com/bakhtiyorbs/)
 
-Progress: **284 days** /Tasks solved: **288** / Missed days: **5 days**
-test
+Progress: **285 days** /Tasks solved: **289** / Missed days: **5 days**
+
 You can give me more  motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                                 | Date              | Problem                                                                                                                                              | Level  |
 |---------------------------------------------------------------------|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [285](./src/CheckIfAllCharactersHaveEqualNumberOfOccurrences.php)   | July 18, 2023     | [Check if All Characters Have Equal Number of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences)   | EASY   |
 | [284](./src/WordPattern.php)                                        | July 17, 2023     | [Word Pattern](https://leetcode.com/problems/word-pattern)                                                                                           | EASY   |
 | [283](./src/MaximumProductOfThreeNumbers.php)                       | July 16, 2023     | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers)                                                   | EASY   |
 | [282](./src/LargestNumberAtLeastTwiceOfOthers.php)                  | July 15, 2023     | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others)                                     | EASY   |
