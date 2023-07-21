@@ -3,7 +3,7 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakhtiyorbs](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbakhtiyorbs&logo=leetcode&logoColor=yellow)](https://leetcode.com/bakhtiyorbs/)
 
-Progress: **287 days** /Tasks solved: **291** / Missed days: **5 days**
+Progress: **288 days** /Tasks solved: **292** / Missed days: **5 days**
 
 You can give me more  motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
