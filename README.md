@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakhtiyorbs](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbakhtiyorbs&logo=leetcode&logoColor=yellow)](https://leetcode.com/bakhtiyorbs/)
 
-Progress: **288 days** /Tasks solved: **292** / Missed days: **5 days**
+Progress: **289 days** /Tasks solved: **293** / Missed days: **5 days**
 
 You can give me more  motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                                 | Date              | Problem                                                                                                                                              | Level  |
 |---------------------------------------------------------------------|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [289](./src/MostFrequentNumberFollowingKeyInArray.php)              | July 22, 2023     | [Most Frequent Number Following Key In an Array](https://leetcode.com/problems/most-frequent-number-following-key-in-an-array)                       | EASY   |
 | [288](./src/BestPokerHand.php)                                      | July 21, 2023     | [Best Poker Hand](https://leetcode.com/problems/best-poker-hand)                                                                                     | EASY   |
 | [287](./src/MaximumProductOfTwoElementsInArray.php)                 | July 20, 2023     | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array)                             | EASY   |
 | [286](./src/DetectPatternOfLengthMRepeatedKOrMoreTimes.php)         | July 19, 2023     | [Detect Pattern of Length M Repeated K or More Times](https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times)             | EASY   |
