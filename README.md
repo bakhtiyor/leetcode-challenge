@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakhtiyorbs](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbakhtiyorbs&logo=leetcode&logoColor=yellow)](https://leetcode.com/bakhtiyorbs/)
 
-Progress: **291 days** /Tasks solved: **295** / Missed days: **5 days**
+Progress: **292 days** /Tasks solved: **296** / Missed days: **5 days**
 
 You can give me more  motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                                 | Date              | Problem                                                                                                                                              | Level  |
 |---------------------------------------------------------------------|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [292](./src/TakeGiftsFromRichestPile.php)                           | July 25, 2023     | [Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile)                                                   | EASY   |
 | [291](./src/MinimumMovesToConvertString.php)                        | July 24, 2023     | [Minimum Moves to Convert String](https://leetcode.com/problems/minimum-moves-to-convert-string)                                                     | EASY   |
 | [290](./src/MaximumNumberOfWordsYouCanType.php)                     | July 23, 2023     | [Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type)                                           | EASY   |
 | [289](./src/MostFrequentNumberFollowingKeyInArray.php)              | July 22, 2023     | [Most Frequent Number Following Key In an Array](https://leetcode.com/problems/most-frequent-number-following-key-in-an-array)                       | EASY   |
