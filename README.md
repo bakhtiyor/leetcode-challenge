@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakhtiyorbs](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbakhtiyorbs&logo=leetcode&logoColor=yellow)](https://leetcode.com/bakhtiyorbs/)
 
-Progress: **293 days** /Tasks solved: **297** / Missed days: **5 days**
+Progress: **294 days** /Tasks solved: **298** / Missed days: **5 days**
 
 You can give me more  motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                                 | Date              | Problem                                                                                                                                              | Level  |
 |---------------------------------------------------------------------|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [294](./src/CheckIfMatrixIsXMatrix.php)                             | July 27, 2023     | [Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix)                                                             | EASY   |
 | [293](./src/ConvertIntegerToSumOfTwoNoZeroIntegers.php)             | July 26, 2023     | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers)               | EASY   |
 | [292](./src/TakeGiftsFromRichestPile.php)                           | July 25, 2023     | [Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile)                                                   | EASY   |
 | [291](./src/MinimumMovesToConvertString.php)                        | July 24, 2023     | [Minimum Moves to Convert String](https://leetcode.com/problems/minimum-moves-to-convert-string)                                                     | EASY   |
