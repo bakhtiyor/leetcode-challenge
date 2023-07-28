@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakhtiyorbs](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbakhtiyorbs&logo=leetcode&logoColor=yellow)](https://leetcode.com/bakhtiyorbs/)
 
-Progress: **294 days** /Tasks solved: **298** / Missed days: **5 days**
+Progress: **295 days** /Tasks solved: **299** / Missed days: **5 days**
 
 You can give me more  motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                                 | Date              | Problem                                                                                                                                              | Level  |
 |---------------------------------------------------------------------|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [295](./src/MatrixCellsInDistanceOrder.php)                         | July 28, 2023     | [Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order)                                                       | EASY   |
 | [294](./src/CheckIfMatrixIsXMatrix.php)                             | July 27, 2023     | [Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix)                                                             | EASY   |
 | [293](./src/ConvertIntegerToSumOfTwoNoZeroIntegers.php)             | July 26, 2023     | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers)               | EASY   |
 | [292](./src/TakeGiftsFromRichestPile.php)                           | July 25, 2023     | [Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile)                                                   | EASY   |
