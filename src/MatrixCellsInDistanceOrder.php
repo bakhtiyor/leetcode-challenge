@@ -53,7 +53,7 @@ class MatrixCellsInDistanceOrder
 
         $ans = [];
         $arr = array_keys($distancesAwayFromCenter);
-        for ($i = 0, $iMax = count($arr); $i < $iMax; $i++){
+        for ($i = 0, $iMax = count($arr); $i < $iMax; $i++) {
             $ans [] = explode(',', $arr[$i]);
         }
 
