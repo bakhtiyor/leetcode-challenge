@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakhtiyorbs](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbakhtiyorbs&logo=leetcode&logoColor=yellow)](https://leetcode.com/bakhtiyorbs/)
 
-Progress: **296 days** /Tasks solved: **300** / Missed days: **5 days**
+Progress: **297 days** /Tasks solved: **301** / Missed days: **5 days**
 
 You can give me more  motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                                 | Date              | Problem                                                                                                                                              | Level  |
 |---------------------------------------------------------------------|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [297](./src/DetermineWinnerOfBowlingGame.php)                       | July 30, 2023     | [Determine the Winner of a Bowling Game Easy](https://leetcode.com/problems/determine-the-winner-of-a-bowling-game)                                  | EASY   |
 | [296](./src/Shift2DGrid.php)                                        | July 29, 2023     | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid)                                                                                         | EASY   |
 | [295](./src/MatrixCellsInDistanceOrder.php)                         | July 28, 2023     | [Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order)                                                       | EASY   |
 | [294](./src/CheckIfMatrixIsXMatrix.php)                             | July 27, 2023     | [Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix)                                                             | EASY   |
