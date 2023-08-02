@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakhtiyorbs](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbakhtiyorbs&logo=leetcode&logoColor=yellow)](https://leetcode.com/bakhtiyorbs/)
 
-Progress: **299 days** /Tasks solved: **303** / Missed days: **5 days**
+Progress: **300 days** /Tasks solved: **304** / Missed days: **5 days**
 
 You can give me more  motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                                 | Date              | Problem                                                                                                                                              | Level  |
 |---------------------------------------------------------------------|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [300](./src/FindMaximumDivisibilityScore.php)                       | August 02, 2023   | [Find the Maximum Divisibility Score](https://leetcode.com/problems/find-the-maximum-divisibility-score)                                             | EASY   |
 | [299](./src/FindWidthOfColumnsOfGrid.php)                           | August 01, 2023   | [Find the Width of Columns of a Grid](https://leetcode.com/problems/find-the-width-of-columns-of-a-grid)                                             | EASY   |
 | [298](./src/PrimeArrangements.php)                                  | July 31, 2023     | [Prime Arrangements](https://leetcode.com/problems/prime-arrangements)                                                                               | EASY   |
 | [297](./src/DetermineWinnerOfBowlingGame.php)                       | July 30, 2023     | [Determine the Winner of a Bowling Game Easy](https://leetcode.com/problems/determine-the-winner-of-a-bowling-game)                                  | EASY   |
