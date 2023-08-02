@@ -46,22 +46,35 @@ class FindMaximumDivisibilityScore
      */
     public function maxDivScore(array $nums, array $divisors): int
     {
-        $maxDivScore = 0;
-        $maxDivisor = 0;
-        foreach ($divisors as $divisor) {
-            $divScore = 0;
-            foreach ($nums as $num) {
-                if ($num % $divisor === 0) {
-                    $divScore++;
+        $list = [];
+        $finalList = [];
+
+        $j = 0;
+        while ($j < count($divisors)) {
+            $i = 0;
+            $count = 0;
+            while ($i < count($nums)) {
+                if ($nums[$i] % $divisors[$j] === 0) {
+                    $count++;
+                }
+                $i++;
+            }
+            $list[] = $count;
+            $j++;
+        }
+
+        if (!empty($list)) {
+            $a = max($list);
+            for ($m = 0, $mMax = count($list); $m < $mMax; $m++) {
+                if ($a === $list[$m]) {
+                    $finalList[] = $divisors[$m];
                 }
             }
-            if ($divScore > $maxDivScore) {
-                $maxDivScore = $divScore;
-                $maxDivisor = $divisor;
-            } elseif ($divScore === $maxDivScore) {
-                $maxDivisor = min($maxDivisor, $divisor);
-            }
         }
-        return $maxDivisor;
+
+        if (!empty($finalList)) {
+            return min($finalList);
+        }
+        return 0;
     }
 }
