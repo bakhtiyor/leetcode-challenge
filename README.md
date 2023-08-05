@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakhtiyorbs](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbakhtiyorbs&logo=leetcode&logoColor=yellow)](https://leetcode.com/bakhtiyorbs/)
 
-Progress: **301 days** /Tasks solved: **305** / Missed days: **5 days**
+Progress: **302 days** /Tasks solved: **306** / Missed days: **6 days**
 
 You can give me more  motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                                 | Date              | Problem                                                                                                                                              | Level  |
 |---------------------------------------------------------------------|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [302](./src/CountCommonWordsWithOneOccurrence.php)                  | August 05, 2023   | [Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence)                                       | EASY   |
 | [301](./src/SortArrayByIncreasingFrequency.php)                     | August 03, 2023   | [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency)                                               | EASY   |
 | [300](./src/FindMaximumDivisibilityScore.php)                       | August 02, 2023   | [Find the Maximum Divisibility Score](https://leetcode.com/problems/find-the-maximum-divisibility-score)                                             | EASY   |
 | [299](./src/FindWidthOfColumnsOfGrid.php)                           | August 01, 2023   | [Find the Width of Columns of a Grid](https://leetcode.com/problems/find-the-width-of-columns-of-a-grid)                                             | EASY   |
