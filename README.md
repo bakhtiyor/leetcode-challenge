@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakhtiyorbs](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbakhtiyorbs&logo=leetcode&logoColor=yellow)](https://leetcode.com/bakhtiyorbs/)
 
-Progress: **303 days** /Tasks solved: **307** / Missed days: **6 days**
+Progress: **304 days** /Tasks solved: **308** / Missed days: **6 days**
 
 You can give me more  motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                                 | Date              | Problem                                                                                                                                              | Level  |
 |---------------------------------------------------------------------|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [304](./src/MinimumCostOfBuyingCandiesWithDiscount.php)             | August 07, 2023   | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount)                           | EASY   |
 | [303](./src/SplitStringInBalancedStrings.php)                       | August 06, 2023   | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings)                                               | EASY   |
 | [302](./src/CountCommonWordsWithOneOccurrence.php)                  | August 05, 2023   | [Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence)                                       | EASY   |
 | [301](./src/SortArrayByIncreasingFrequency.php)                     | August 03, 2023   | [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency)                                               | EASY   |
