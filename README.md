@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakhtiyorbs](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbakhtiyorbs&logo=leetcode&logoColor=yellow)](https://leetcode.com/bakhtiyorbs/)
 
-Progress: **306 days** /Tasks solved: **310** / Missed days: **6 days**
+Progress: **307 days** /Tasks solved: **311** / Missed days: **6 days**
 
 You can give me more  motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                                 | Date              | Problem                                                                                                                                              | Level  |
 |---------------------------------------------------------------------|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [307](./src/FormSmallestNumberFromTwoDigitArraysTest.php)           | August 10, 2023   | [Form Smallest Number From Two Digit Arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays)                               | EASY   |
 | [306](./src/MinimumNumberOfMovesToSeatEveryone.php)                 | August 09, 2023   | [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone)                                   | EASY   |
 | [305](./src/MinimumValueToGetPositiveStepByStepSum.php)             | August 08, 2023   | [Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum)                       | EASY   |
 | [304](./src/MinimumCostOfBuyingCandiesWithDiscount.php)             | August 07, 2023   | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount)                           | EASY   |
