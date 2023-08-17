@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakhtiyorbs](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbakhtiyorbs&logo=leetcode&logoColor=yellow)](https://leetcode.com/bakhtiyorbs/)
 
-Progress: **313 days** /Tasks solved: **317** / Missed days: **6 days**
+Progress: **314 days** /Tasks solved: **318** / Missed days: **6 days**
 
 You can give me more  motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                                 | Date              | Problem                                                                                                                                              | Level  |
 |---------------------------------------------------------------------|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [314](./src/SumOfAllOddLengthSubarrays.php)                         | August 17, 2023   | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays)                                                     | EASY   |
 | [313](./src/LargestLocalValuesInMatrix.php)                         | August 16, 2023   | [Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix)                                                   | EASY   |
 | [312](./src/SplitStringsBySeparator.php)                            | August 15, 2023   | [Split Strings by Separator](https://leetcode.com/problems/split-strings-by-separator)                                                               | EASY   |
 | [311](./src/DegreeOfArray.php)                                      | August 14, 2023   | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array)                                                                               | EASY   |
