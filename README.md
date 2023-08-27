@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakhtiyorbs](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbakhtiyorbs&logo=leetcode&logoColor=yellow)](https://leetcode.com/bakhtiyorbs/)
 
-Progress: **323 days** /Tasks solved: **327** / Missed days: **6 days**
+Progress: **324 days** /Tasks solved: **328** / Missed days: **6 days**
 
 You can give me more  motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                                 | Date              | Problem                                                                                                                                              | Level  |
 |---------------------------------------------------------------------|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [324](./src/FaultyKeyboard.php)                                     | August 27, 2023   | [Faulty Keyboard](https://leetcode.com/problems/faulty-keyboard)                                                                                     | EASY   |
 | [323](./src/MinimizeStringLength.php)                               | August 26, 2023   | [Minimize String Length](https://leetcode.com/problems/minimize-string-length)                                                                       | EASY   |
 | [322](./src/DeleteOperationForTwoStrings.php)                       | August 25, 2023   | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings)                                                   | MEDIUM |
 | [321](./src/CheckWhetherTwoStringsAreAlmostEquivalent.php)          | August 24, 2023   | [Check Whether Two Strings are Almost Equivalent](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent)                     | EASY   |
