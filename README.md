@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakhtiyorbs](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbakhtiyorbs&logo=leetcode&logoColor=yellow)](https://leetcode.com/bakhtiyorbs/)
 
-Progress: **325 days** /Tasks solved: **329** / Missed days: **6 days**
+Progress: **326 days** /Tasks solved: **330** / Missed days: **6 days**
 
 You can give me more  motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                                 | Date              | Problem                                                                                                                                              | Level  |
 |---------------------------------------------------------------------|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [326](./src/DetermineIfStringHalvesAreAlike.php)                    | August 28, 2023   | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike)                                           | EASY   |
 | [325](./src/NumberOfDaysBetweenTwoDates.php)                        | August 27, 2023   | [Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates)                                                   | EASY   |
 | [324](./src/FaultyKeyboard.php)                                     | August 27, 2023   | [Faulty Keyboard](https://leetcode.com/problems/faulty-keyboard)                                                                                     | EASY   |
 | [323](./src/MinimizeStringLength.php)                               | August 26, 2023   | [Minimize String Length](https://leetcode.com/problems/minimize-string-length)                                                                       | EASY   |
