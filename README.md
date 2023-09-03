@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakhtiyorbs](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbakhtiyorbs&logo=leetcode&logoColor=yellow)](https://leetcode.com/bakhtiyorbs/)
 
-Progress: **330 days** /Tasks solved: **334** / Missed days: **6 days**
+Progress: **331 days** /Tasks solved: **335** / Missed days: **6 days**
 
 You can give me more  motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                                 | Date               | Problem                                                                                                                                              | Level   |
 |---------------------------------------------------------------------|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|---------|
+| [331](./src/ExpressiveWords.php)                                    | September 03, 2023 | [Expressive Words](https://leetcode.com/problems/expressive-words)                                                                                   | MEDIUM  |
 | [330](./src/GroupAnagrams.php)                                      | September 02, 2023 | [Group Anagrams](https://leetcode.com/problems/group-anagrams)                                                                                       | MEDIUM  |
 | [329](./src/MergeIntervals.php)                                     | September 01, 2023 | [Merge Intervals](https://leetcode.com/problems/merge-intervals)                                                                                     | MEDIUM  |
 | [328](./src/XOROperationInArray.php)                                | August 31, 2023    | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array)                                                                 | EASY    |
