@@ -38,7 +38,7 @@ class OddStringDifference
     public function oddString(array $words): string
     {
         $res = $arr = [];
-        foreach ($words as $key => $value){
+        foreach ($words as $key => $value) {
             $tmp = str_split($value);
             for ($i = 1, $iMax = count($tmp); $i < $iMax; $i++) {
                 $arr[$i - 1] = ord($tmp[$i]) - ord($tmp[$i - 1]);
