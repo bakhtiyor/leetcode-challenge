@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakhtiyorbs](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbakhtiyorbs&logo=leetcode&logoColor=yellow)](https://leetcode.com/bakhtiyorbs/)
 
-Progress: **338 days** /Tasks solved: **342** / Missed days: **9 days**
+Progress: **339 days** /Tasks solved: **343** / Missed days: **9 days**
 
 You can give me more motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                                 | Date               | Problem                                                                                                                                              | Level  |
 |---------------------------------------------------------------------|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [339](./src%/LatestTimeByReplacingHiddenDigits.php)                 | September 14, 2023 | [Latest Time by Replacing Hidden Digits](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits)                                       | EASY   |
 | [338](./src/SurfaceAreaOf3DShapes.php)                              | September 13, 2023 | [Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes)                                                                 | EASY   |
 | [337](./src/CountBinarySubstrings.php)                              | September 12, 2023 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings)                                                                     | EASY   |
 | [336](./src/NumberOfEmployeesWhoMetTheTarget.php)                   | September 11, 2023 | [Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target)                                       | EASY   |
