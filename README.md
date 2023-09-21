@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakhtiyorbs](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbakhtiyorbs&logo=leetcode&logoColor=yellow)](https://leetcode.com/bakhtiyorbs/)
 
-Progress: **345 days** /Tasks solved: **349** / Missed days: **9 days**
+Progress: **346 days** /Tasks solved: **350** / Missed days: **9 days**
 
 You can give me more motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                                        | Date               | Problem                                                                                                                                                                | Level   |
 |----------------------------------------------------------------------------|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|
+| [346](./src/CourseScheduleII.php)                                          | September 19, 2023 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii)                                                                                                 | MEDIUM  |
 | [345](./src/CourseScheduleII.php)                                          | September 19, 2023 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii)                                                                                                 | MEDIUM  |
 | [344](./src/AngleBetweenHandsOfAClock.php)                                 | September 18, 2023 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock)                                                                         | MEDIUM  |
 | [343](./src/MaximumNumberOfNonOverlappingSubarraysWithSumEqualsTarget.php) | September 18, 2023 | [Maximum Number of Non-Overlapping Subarrays With Sum Equals Target](https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) | MEDIUM  |
