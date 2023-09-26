@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakhtiyorbs](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbakhtiyorbs&logo=leetcode&logoColor=yellow)](https://leetcode.com/bakhtiyorbs/)
 
-Progress: **350 days** /Tasks solved: **354** / Missed days: **9 days**
+Progress: **351 days** /Tasks solved: **355** / Missed days: **9 days**
 
 You can give me more motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                                        | Date               | Problem                                                                                                                                                                | Level   |
 |----------------------------------------------------------------------------|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|
+| [351](./src/AsteroidCollision.php)                                         | September 26, 2023 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision)                                                                                                 | MEDIUM  |
 | [350](./src/AlphabetBoardPath.php)                                         | September 25, 2023 | [Alphabet Board Path](https://leetcode.com/problems/alphabet-board-path)                                                                                               | MEDIUM  |
 | [349](./src/MaximumNumberOfVowelsInSubstringOfGivenLength.php)             | September 24, 2023 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length)                       | MEDIUM  |
 | [348](./src/MaxSumOfAPairWithEqualSumOfDigits.php)                         | September 23, 2023 | [Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits)                                                 | MEDIUM  |
