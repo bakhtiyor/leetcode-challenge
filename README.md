@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakhtiyorbs](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbakhtiyorbs&logo=leetcode&logoColor=yellow)](https://leetcode.com/bakhtiyorbs/)
 
-Progress: **351 days** /Tasks solved: **355** / Missed days: **9 days**
+Progress: **352 days** /Tasks solved: **356** / Missed days: **9 days**
 
 You can give me more motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                                        | Date               | Problem                                                                                                                                                                | Level   |
 |----------------------------------------------------------------------------|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|
+| [352](./src/PartitionArrayForMaximumSum.php)                               | September 27, 2023 | [Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum)                                                                       | MEDIUM  |
 | [351](./src/AsteroidCollision.php)                                         | September 26, 2023 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision)                                                                                                 | MEDIUM  |
 | [350](./src/AlphabetBoardPath.php)                                         | September 25, 2023 | [Alphabet Board Path](https://leetcode.com/problems/alphabet-board-path)                                                                                               | MEDIUM  |
 | [349](./src/MaximumNumberOfVowelsInSubstringOfGivenLength.php)             | September 24, 2023 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length)                       | MEDIUM  |
