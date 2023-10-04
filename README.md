@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakhtiyorbs](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbakhtiyorbs&logo=leetcode&logoColor=yellow)](https://leetcode.com/bakhtiyorbs/)
 
-Progress: **358 days** /Tasks solved: **362** / Missed days: **9 days**
+Progress: **359 days** /Tasks solved: **363** / Missed days: **9 days**
 
 You can give me more motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                                        | Date               | Problem                                                                                                                                                                | Level   |
 |----------------------------------------------------------------------------|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|
+| [359](./src/StepsToMakeArrayNonDecreasing.php)                             | October 04, 2023   | [Steps to Make Array Non-decreasing](https://leetcode.com/problems/steps-to-make-array-non-decreasing)                                                                 | MEDIUM  |
 | [358](./src/ConvertToBase2.php)                                            | October 03, 2023   | [Convert to Base -2](https://leetcode.com/problems/convert-to-base-2)                                                                                                  | MEDIUM  |
 | [357](./src/SetMatrixZeroes.php)                                           | October 02, 2023   | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes)                                                                                                   | MEDIUM  |
 | [356](./src/BestTimeToBuyAndSellStockWithCooldown.php)                     | October 01, 2023   | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown)                                           | MEDIUM  |
