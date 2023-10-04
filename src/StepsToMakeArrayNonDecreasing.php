@@ -32,6 +32,24 @@ class StepsToMakeArrayNonDecreasing
      */
     public function totalSteps(array $nums): int
     {
-        return 1;
+        $st = [[@$nums[0], 0]];
+        $ans = 0;
+
+        foreach (array_slice($nums, 1) as $num) {
+            $t = 0;
+            while ($st && end($st)[0] <= $num) {
+                $t = max($t, end($st)[1]);
+                array_pop($st);
+            }
+            if ($st) {
+                ++$t;
+            } else {
+                $t = 0;
+            }
+            $ans = max($ans, $t);
+            $st[] = [$num, $t];
+        }
+
+        return $ans;
     }
 }
