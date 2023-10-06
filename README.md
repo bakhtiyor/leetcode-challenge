@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakhtiyorbs](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbakhtiyorbs&logo=leetcode&logoColor=yellow)](https://leetcode.com/bakhtiyorbs/)
 
-Progress: **360 days** /Tasks solved: **364** / Missed days: **9 days**
+Progress: **361 days** /Tasks solved: **365** / Missed days: **9 days**
 
 You can give me more motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                                        | Date               | Problem                                                                                                                                                                | Level   |
 |----------------------------------------------------------------------------|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|
+| [361](./src/TaskScheduler2.php)                                            | October 06, 2023   | [Task Scheduler II](https://leetcode.com/problems/task-scheduler-ii)                                                                                                   | MEDIUM  |
 | [360](./src/TwoBestNonOverlappingEvents.php)                               | October 05, 2023   | [Two Best Non-Overlapping Events](https://leetcode.com/problems/two-best-non-overlapping-events)                                                                       | MEDIUM  |
 | [359](./src/StepsToMakeArrayNonDecreasing.php)                             | October 04, 2023   | [Steps to Make Array Non-decreasing](https://leetcode.com/problems/steps-to-make-array-non-decreasing)                                                                 | MEDIUM  |
 | [358](./src/ConvertToBase2.php)                                            | October 03, 2023   | [Convert to Base -2](https://leetcode.com/problems/convert-to-base-2)                                                                                                  | MEDIUM  |
