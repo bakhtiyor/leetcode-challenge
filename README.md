@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/bakhtiyorbs [![LeetCode user bakhtiyorbs](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbakhtiyorbs&logo=leetcode&logoColor=yellow)](https://leetcode.com/bakhtiyorbs/)
 
-Progress: **363 days** /Tasks solved: **367** / Missed days: **9 days**
+Progress: **364 days** /Tasks solved: **368** / Missed days: **9 days**
 
 You can give me more motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                                         | Date               | Problem                                                                                                                                                                | Level   |
 |-----------------------------------------------------------------------------|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|
+| [364](./src/MaximizeDistanceToClosestPerson.php)                            | October 09, 2023   | [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person)                                                               | MEDIUM  |
 | [363](./src/NumbersWithSameConsecutiveDifferencesMediumTopicsCompanies.php) | October 08, 2023   | [Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences)                                                   | MEDIUM  |
 | [362](./src/JumpGameIII.php)                                                | October 07, 2023   | [Jump Game III](https://leetcode.com/problems/jump-game-iii)                                                                                                           | MEDIUM  |
 | [361](./src/TaskScheduler2.php)                                             | October 06, 2023   | [Task Scheduler II](https://leetcode.com/problems/task-scheduler-ii)                                                                                                   | MEDIUM  |
